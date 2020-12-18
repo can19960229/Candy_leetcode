@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ijS2r1PYTLCHJeLN7VF5uS8lzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution_11">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="My_leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_11" />
+      <module name="My_leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_11" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="" />
+      <created>1602419303856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602419303856</updated>
+      <workItem from="1602419305175" duration="2059000" />
+      <workItem from="1602507176872" duration="10914000" />
+      <workItem from="1602573969583" duration="5729000" />
+      <workItem from="1602640084043" duration="2640000" />
+      <workItem from="1602680543624" duration="3546000" />
+      <workItem from="1602726962147" duration="862000" />
+      <workItem from="1602855786707" duration="604000" />
+      <workItem from="1603175229471" duration="44658000" />
+      <workItem from="1603811437012" duration="19308000" />
+      <workItem from="1604066951691" duration="297000" />
+      <workItem from="1604067316107" duration="15544000" />
+      <workItem from="1604453990779" duration="20835000" />
+      <workItem from="1604720283434" duration="61339000" />
+      <workItem from="1605702810589" duration="21009000" />
+      <workItem from="1605943291851" duration="20945000" />
+      <workItem from="1606377741477" duration="6071000" />
+      <workItem from="1606627885693" duration="9122000" />
+      <workItem from="1606909715806" duration="4250000" />
+      <workItem from="1606960355631" duration="14753000" />
+      <workItem from="1607408641001" duration="20622000" />
+      <workItem from="1608084145835" duration="145000" />
+      <workItem from="1608084318132" duration="13112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2239" y="228" width="816" height="781" key="#Intentions" timestamp="1602510017261">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2239" y="228" width="816" height="781" key="#Intentions/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602510017261" />
+    <state x="2472" y="197" key="#Project_Structure" timestamp="1605442909526">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="197" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605442909526" />
+    <state x="2101" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602510196831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2101" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602510196831" />
+    <state x="2726" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602419454897">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2726" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419454897" />
+    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1608034135420">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608034135419" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608033966740" />
+    <state x="740" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604414292743" />
+    <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444871689" />
+    <state x="2079" y="97" width="998" height="799" key="SettingsEditor" timestamp="1602574043710">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2079" y="97" width="998" height="799" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602574043710" />
+    <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603714638343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603714638343" />
+    <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1606960599390">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606960599390" />
+    <state x="640" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604067349530" />
+    <state x="2560" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606377741532" />
+    <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607259913855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1607259913855" />
+    <state x="2696" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605709805488" />
+    <state x="2651" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602509969299">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2651" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602509969299" />
+    <state x="959" y="344" key="extract.method.dialog" timestamp="1605617208226">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="959" y="344" key="extract.method.dialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605617208226" />
+    <state x="2610" y="303" key="extract.method.dialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1603459381316" />
+    <state x="378" y="214" key="new project wizard" timestamp="1606889527398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606889527398" />
+    <state x="2298" y="214" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444884603" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1608294669894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608294669894" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1603182886788" />
+  </component>
+</project>
