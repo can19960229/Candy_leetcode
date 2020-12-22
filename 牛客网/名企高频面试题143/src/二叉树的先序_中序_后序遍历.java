@@ -37,12 +37,11 @@ public class 二叉树的先序_中序_后序遍历 {
         InOrderTraversal(root);
         PostOrderTraversal(root);
 
-        int[][] res = {
+        return new int[][]{
                 front.stream().mapToInt(Integer::valueOf).toArray(),
                 mid.stream().mapToInt(Integer::valueOf).toArray(),
                 back.stream().mapToInt(Integer::valueOf).toArray()
         };
-        return res;
     }
 
     //前序遍历
