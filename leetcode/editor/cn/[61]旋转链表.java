@@ -36,6 +36,29 @@
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
 
+        if(head == null) return null;
+        if (head.next == null) return head;
+
+        //闭合链表
+        int n;
+        ListNode old_tail = head;
+        for (n = 1; old_tail.next != null; n++) {
+            old_tail = old_tail.next;
+        }
+        old_tail.next = head;
+
+        //找到新的头节点，新的尾节点
+        //新的头节点 ： （n - k % n - 1）;新的尾节点： （n- k % n）
+        ListNode new_tail = head;
+        for (int i = 0; i < n - k%n - 1; i++) {
+            new_tail = new_tail.next;
+        }
+        ListNode new_head = new_tail.next;
+
+        //打破闭合链表
+        new_tail.next = null;
+
+        return new_head;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
