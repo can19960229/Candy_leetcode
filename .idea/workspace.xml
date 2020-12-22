@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/ListNode.java" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="测试">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[88]合并两个有序数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[61]旋转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[61]旋转链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ijS2r1PYTLCHJeLN7VF5uS8lzI" />
@@ -49,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -129,12 +132,59 @@
       <workItem from="1607408641001" duration="20622000" />
       <workItem from="1608084145835" duration="145000" />
       <workItem from="1608084318132" duration="14386000" />
-      <workItem from="1608537424761" duration="2094000" />
+      <workItem from="1608537424761" duration="6762000" />
     </task>
+    <task id="LOCAL-00001" summary="快慢指针判断链表是否成环">
+      <created>1608607869059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608607869059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <created>1608607985050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608607985050</updated>
+    </task>
+    <task id="LOCAL-00003" summary="链表+双指针">
+      <created>1608608213990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608608213990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="链表+双指针">
+      <created>1608627439090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608627439090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="快慢指针判断链表是否成环" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="链表+双指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表+双指针" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2239" y="228" width="816" height="781" key="#Intentions" timestamp="1602510017261">
@@ -153,10 +203,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2726" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419454897" />
-    <state x="508" y="127" key="CommitChangelistDialog2" timestamp="1608607867969">
+    <state x="508" y="127" key="CommitChangelistDialog2" timestamp="1608628650164">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="508" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608607867969" />
+    <state x="-1412" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608627437921" />
+    <state x="508" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608628650164" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1608607760539">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -169,6 +220,11 @@
     </state>
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608607812600" />
     <state x="2079" y="97" width="998" height="799" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602574043710" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1608628675892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608627445348" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608628675892" />
     <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603714638343">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -184,10 +240,11 @@
     </state>
     <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1607259913855" />
     <state x="2696" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605709805488" />
-    <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608607432465">
+    <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608628604763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608607432465" />
+    <state x="-1214" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608627408851" />
+    <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608628604763" />
     <state x="2651" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602509969299">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
