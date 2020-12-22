@@ -34,7 +34,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] nums1_copy = new int[m];
         System.arraycopy(nums1,0,nums1_copy,0,m);
