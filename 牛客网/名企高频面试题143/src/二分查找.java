@@ -21,7 +21,7 @@ public class 二分查找 {
         // write code here
         int i = 0;
         int j = n - 1;
-        int mid = i + (j - 1)/ 2;
+        int mid = i + (j - i)/ 2;
         while(i <= j){
             if(a[mid] < v){
                 i = mid + 1;
