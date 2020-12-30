@@ -40,5 +40,6 @@ class Solution_24_1 {
         }
         return pre;
     }
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
