@@ -54,7 +54,7 @@ class Solution_1046 {
         while (len >= 1){
             int x = stones[len - 1];
             int y = stones[len];
-            int r = x - y >= 0? x - y:y - x;
+            int r = x - y >= 0 ? x - y : y - x;
 
             if (r > 0){
                 len = len - 1;

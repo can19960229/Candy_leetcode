@@ -747,6 +747,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.java" />
+              <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.java" />
+              <option name="questionId" value="83" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[844]比较含退格的字符串.java">
           <value>
             <LeetcodeEditor>
@@ -803,11 +819,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 18]删除链表的节点.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 18]删除链表的节点.java" />
+              <option name="questionId" value="100299" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 22]链表中倒数第k个节点.java">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 22]链表中倒数第k个节点.java" />
               <option name="questionId" value="100294" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 24]反转链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 24]反转链表.java" />
+              <option name="questionId" value="100298" />
             </LeetcodeEditor>
           </value>
         </entry>
