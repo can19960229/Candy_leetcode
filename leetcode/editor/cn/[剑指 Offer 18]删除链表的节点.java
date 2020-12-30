@@ -55,6 +55,7 @@ class Solution_18_1 {
             curr = curr.next;
         }
         return pre.next;
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
