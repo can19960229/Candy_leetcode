@@ -47,7 +47,7 @@ import java.util.Arrays;
  *
  */
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_1046 {
     public int lastStoneWeight(int[] stones) {
         Arrays.sort(stones);
         int len = stones.length - 1;
@@ -55,16 +55,20 @@ class Solution {
             int x = stones[len - 1];
             int y = stones[len];
             int r = x - y >= 0? x - y:y - x;
+
             if (r > 0){
                 len = len - 1;
                 int i = len - 1;
+
                 //把粉碎后的石头插入到数组，插入后数组还是有序的
                 while (i >= 0 && stones[i] > r){
                     stones[i + 1] = stones[i];
                     i--;
                 }
                 stones[i+1] = r;
+
             }else {
+                //如果粉碎后的石头不大于0，则直接将数组减去两个最大的位置
                 len = len - 2;
             }
         }

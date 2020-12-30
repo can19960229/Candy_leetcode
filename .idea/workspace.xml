@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1046]最后一块石头的重量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1046]最后一块石头的重量.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1046]最后一块石头的重量.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,7 @@
       <workItem from="1608084318132" duration="14386000" />
       <workItem from="1608537424761" duration="15967000" />
       <workItem from="1608723759114" duration="4238000" />
-      <workItem from="1609158031026" duration="11750000" />
+      <workItem from="1609158031026" duration="12449000" />
     </task>
     <task id="LOCAL-00001" summary="快慢指针判断链表是否成环">
       <created>1608607869059</created>
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609252256807</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="删除链表节点">
+      <created>1609293594679</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1609293594679</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,15 +366,15 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1609252256019">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609252256019" />
-    <state x="508" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609250811795" />
-    <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1608638124053">
+    <state x="545" y="128" key="CommitChangelistDialog2" timestamp="1609293629040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608638124053" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609252256019" />
+    <state x="545" y="128" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293629040" />
+    <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1609226153901">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -376,6 +382,10 @@
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609226153901" />
     <state x="740" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604414292743" />
     <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444871689" />
+    <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293611375" />
     <state x="159" y="97" width="998" height="799" key="SettingsEditor" timestamp="1608640223075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
