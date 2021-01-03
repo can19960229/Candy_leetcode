@@ -79,14 +79,16 @@ class Solution_35_1 {
         Map<Node,Node> map = new HashMap<Node,Node>();
         //3. 复制各节点，并建立 “原节点 -> 新节点” 的 Map 映射
         while(cur != null){
-            map.put(cur,new Node(cur.val));
+            //存储put:<key,value1>
+            map.put(cur,new Node(cur.val)); //顺序遍历，存储老结点和新结点(先存储新创建的结点值)
             cur = cur.next;
         }
         cur = head;
         //4. 构建新链表的next和random指向
         while (cur != null){
-            map.get(cur).next = map.get(cur.next);
-            map.get(cur).random = map.get(cur.random);
+            //得到get:<key>.value2,3
+            map.get(cur).next = map.get(cur.next);//新结点next指向同旧结点的next指向
+            map.get(cur).random = map.get(cur.random);//新结点random指向同旧结点的random指向
             cur = cur.next;
         }
         //5.返回新链表的头节点
