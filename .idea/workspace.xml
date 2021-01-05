@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_05_RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_07_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/My_leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_leetcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 29]顺时针打印矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 29]顺时针打印矩阵.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/复现代码/src/二分查找_.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/复现代码/src/二分查找_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_05_RotateMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_06_PrintMatrixSpiralOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_07_ReverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/左程云算法课/src/Code_08_ZigZagPrintMatrix.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,7 +66,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -89,7 +92,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_11">
+  <component name="RunManager" selected="Application.Code_09_FindNumInSortedMatrix">
+    <configuration name="Code_09_FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_09_FindNumInSortedMatrix" />
+      <module name="My_leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="My_leetcode" />
@@ -106,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
         <item itemvalue="Application.Solution_11" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -148,7 +159,7 @@
       <workItem from="1609158031026" duration="20736000" />
       <workItem from="1609397194695" duration="12000" />
       <workItem from="1609588489962" duration="11823000" />
-      <workItem from="1609844983644" duration="3029000" />
+      <workItem from="1609844983644" duration="6008000" />
     </task>
     <task id="LOCAL-00001" summary="快慢指针判断链表是否成环">
       <created>1608607869059</created>
@@ -388,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609684225976</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1.0">
+      <created>1609848475644</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1609848475644</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,23 +446,24 @@
     <MESSAGE value="二分查找" />
     <MESSAGE value="测试" />
     <MESSAGE value="快速排序" />
-    <MESSAGE value="1.0" />
     <MESSAGE value="删除链表重复节点" />
     <MESSAGE value="翻转链表" />
     <MESSAGE value="删除链表节点" />
     <MESSAGE value="旋转矩阵" />
     <MESSAGE value="复制链表" />
     <MESSAGE value="链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2239" y="228" width="816" height="781" key="#Intentions" timestamp="1602510017261">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2239" y="228" width="816" height="781" key="#Intentions/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602510017261" />
-    <state x="2472" y="197" key="#Project_Structure" timestamp="1605442909526">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="552" y="197" key="#Project_Structure" timestamp="1609851195347">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="552" y="197" key="#Project_Structure/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851195347" />
     <state x="2472" y="197" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605442909526" />
     <state x="181" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609227939966">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -463,20 +482,20 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1609684225135">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1609848474708">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609684225135" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609594059311" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609848474708" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1609397203853">
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1609851313359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608034135419" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609397203853" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851313359" />
     <state x="740" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604414292743" />
     <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444871689" />
     <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
@@ -488,11 +507,11 @@
     </state>
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608640223075" />
     <state x="2079" y="97" width="998" height="799" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602574043710" />
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1609684234972">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1609848485348">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609684234972" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609594067654" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609848485348" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -508,6 +527,10 @@
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845664316" />
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604067349530" />
     <state x="2560" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606377741532" />
+    <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609851217796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851217796" />
     <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607259913855">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -534,10 +557,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="591" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608607830022" />
-    <state x="378" y="214" key="new project wizard" timestamp="1609226178611">
+    <state x="378" y="214" key="new project wizard" timestamp="1609851289972">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609226178611" />
+    <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851289972" />
     <state x="2298" y="214" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444884603" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1608294669894">
       <screen x="0" y="0" width="1920" height="1080" />
