@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/editor/cn" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/牛客网/名企高频面试题143/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/牛客网/复现代码/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/牛客网/左程云算法课/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

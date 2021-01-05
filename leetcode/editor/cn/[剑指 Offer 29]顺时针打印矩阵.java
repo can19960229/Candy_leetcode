@@ -31,29 +31,21 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_29_1 {
     public int[] spiralOrder(int[][] matrix) {
-        if (matrix.length == 0) return new int[0];
-        // l 左  r 右  t 上  b 下
-        int l = 0,r = matrix[0].length - 1, t = 0, b = matrix.length - 1,x = 0;
-        int [] res = new int [(r + 1) * (b + 1)];
-        while (true){
-            for (int i = 1; i<=r ;i++)
-                res[x++] = matrix[t][i];    //左到右
-            if ( ++t > b)
-                break;
-            for (int i = t; i <= b; i++)
-                res[x++] = matrix[i][r];    //从上到下
-            if (l > --r)
-                break;
-            for (int i = r; i >= l;i--)
-                res[x++] = matrix[b][i];    //右到左
-            if (t > --b)
-                break;
-            for (int i = b; i>= t;i--)
-                res[x++] = matrix[i][l];    //下到上
-            if (++l > r)
-                break;
+        if(matrix.length == 0) return new int[0];
+        int l = 0, r = matrix[0].length - 1, t = 0, b = matrix.length - 1, x = 0;
+        int[] res = new int[(r + 1) * (b + 1)];
+        while(true) {
+            for(int i = l; i <= r; i++) res[x++] = matrix[t][i]; // left to right.
+            if(++t > b) break;
+            for(int i = t; i <= b; i++) res[x++] = matrix[i][r]; // top to bottom.
+            if(l > --r) break;
+            for(int i = r; i >= l; i--) res[x++] = matrix[b][i]; // right to left.
+            if(t > --b) break;
+            for(int i = b; i >= t; i--) res[x++] = matrix[i][l]; // bottom to top.
+            if(++l > r) break;
         }
         return res;
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
