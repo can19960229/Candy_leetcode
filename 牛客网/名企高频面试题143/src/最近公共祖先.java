@@ -3,7 +3,7 @@
  * author  candy_chen
  * date   2021/1/11 21:38
  * version 1.0
- * Description: 测试
+ * Description: 最近公共祖先问题
  */
 
 /**

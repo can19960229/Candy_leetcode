@@ -79,6 +79,7 @@ class Solution {
 }
 
  */
+//自底向上   height函数只会被调用1次
 class Solution_110{
     public boolean isBalanced(TreeNode root) {
         return height(root) >= 0;
