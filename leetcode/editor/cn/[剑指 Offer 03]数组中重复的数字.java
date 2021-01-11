@@ -27,6 +27,7 @@ import java.util.Set;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_03_1 {
     public int findRepeatNumber_1(int[] nums) {
+        //哈希表，使用set集合
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {
             if (!set.add(num)){
@@ -37,6 +38,7 @@ class Solution_03_1 {
     }
 
     public int findRepeatNumber_2(int[] nums){
+        //先排序再查找
         Arrays.sort(nums);
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i-1]){
@@ -46,6 +48,7 @@ class Solution_03_1 {
         return -1;
     }
     public int findRepeatNumber_3(int[] nums){
+        //临时数组
         int length = nums.length;
         int[] temp = new int[length];
         for (int i = 0; i < length; i++) {
@@ -57,6 +60,7 @@ class Solution_03_1 {
         return -1;
     }
     public int findRepeatNumber(int[] nums){
+        //原地置换，放到指定的位置
         for (int i = 0; i < nums.length; i++) {
             //位置正确，先不用管
             if (i == nums[i]){
