@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="树的dfs问题">
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="数组">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 52]两个链表的第一个公共节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 03]数组中重复的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 03]数组中重复的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code_09_FindNumInSortedMatrix">
+  <component name="RunManager" selected="Application.SubString">
     <configuration name="Code_09_FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code_09_FindNumInSortedMatrix" />
       <module name="My_leetcode" />
@@ -109,8 +112,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubString" />
+      <module name="My_leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubString" />
         <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
         <item itemvalue="Application.Solution_11" />
         <item itemvalue="Application.Solution" />
@@ -162,7 +173,10 @@
       <workItem from="1610113342181" duration="596000" />
       <workItem from="1610174103139" duration="516000" />
       <workItem from="1610330370230" duration="4107000" />
-      <workItem from="1610364058435" duration="5194000" />
+      <workItem from="1610364058435" duration="5828000" />
+      <workItem from="1610418436383" duration="4936000" />
+      <workItem from="1610441597359" duration="599000" />
+      <workItem from="1610523155195" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="快慢指针判断链表是否成环">
       <created>1608607869059</created>
@@ -444,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610372955941</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="数组">
+      <created>1610374351312</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610374351312</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,16 +515,18 @@
     <MESSAGE value="查找数组中元素" />
     <MESSAGE value="反转链表" />
     <MESSAGE value="树的dfs问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="树的dfs问题" />
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2239" y="228" width="816" height="781" key="#Intentions" timestamp="1602510017261">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2239" y="228" width="816" height="781" key="#Intentions/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602510017261" />
-    <state x="552" y="197" key="#Project_Structure" timestamp="1609851195347">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1368" y="197" key="#Project_Structure/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610435169354" />
     <state x="552" y="197" key="#Project_Structure/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851195347" />
     <state x="2472" y="197" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1605442909526" />
     <state x="181" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609227939966">
@@ -523,10 +546,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1610374322420">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1610436105651">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610374322420" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610436105651" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610372955302" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -548,10 +571,10 @@
     </state>
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608640223075" />
     <state x="2079" y="97" width="998" height="799" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602574043710" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610372656029">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1610374359039">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609684234972" />
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610374359039" />
     <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610372656029" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
@@ -561,11 +584,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603714638343" />
-    <state x="640" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1609845664316">
+    <state x="640" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1610523648580">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606960599390" />
-    <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845664316" />
+    <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610418492250" />
+    <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610523648580" />
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604067349530" />
     <state x="2560" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606377741532" />
     <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609851217796">
