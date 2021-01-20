@@ -54,9 +54,9 @@
  */
 
 /**
- * 
+ *
  */
-class Solution {
+class Solution_129 {
     public int sumNumbers(TreeNode root) {
         return dfs(root,0);
     }
