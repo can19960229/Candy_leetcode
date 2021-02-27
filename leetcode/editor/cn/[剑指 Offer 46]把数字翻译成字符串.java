@@ -20,9 +20,10 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_46_1 {
+class Solution {
     public int translateNum(int num) {
-        String s = String.valueOf(num);
+        String s = String.valueOf(num);  //把数字转换成字符串
+        System.out.println(s);
         int a = 1, b = 1;
         for (int i = 2; i <= s.length(); i++) {
             String tmp = s.substring(i - 2,i);

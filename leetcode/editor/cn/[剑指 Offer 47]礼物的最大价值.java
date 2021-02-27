@@ -27,7 +27,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_47 {
+class Solution_47_1 {
     public int maxValue(int[][] grid) {
         int m = grid.length,n = grid[0].length;
         for (int i = 0; i < m; i++) {
