@@ -30,7 +30,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_44_1 {
     public int findNthDigit(int n) {
         int digit = 1; //n所在数字的位数
         long start = 1; //数字范围开始的第一个数
