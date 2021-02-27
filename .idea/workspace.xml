@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 45]把数组排成最小的数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 46]把数字翻译成字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 50]第一个只出现一次的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 47]礼物的最大价值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 48]最长不含重复字符的子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 49]丑数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 44]数字序列中某一位的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 44]数字序列中某一位的数字.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,28 +180,7 @@
       <workItem from="1610592271109" duration="598000" />
       <workItem from="1610701044930" duration="7761000" />
       <workItem from="1611063575421" duration="4316000" />
-      <workItem from="1611218292416" duration="12963000" />
-    </task>
-    <task id="LOCAL-00001" summary="快慢指针判断链表是否成环">
-      <created>1608607869059</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1608607869059</updated>
-    </task>
-    <task id="LOCAL-00002" summary="测试">
-      <created>1608607985050</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1608607985050</updated>
-    </task>
-    <task id="LOCAL-00003" summary="链表+双指针">
-      <created>1608608213990</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1608608213990</updated>
+      <workItem from="1611218292416" duration="17443000" />
     </task>
     <task id="LOCAL-00004" summary="链表+双指针">
       <created>1608627439090</created>
@@ -525,7 +504,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614387295471</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="数学">
+      <created>1614387512450</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1614387512451</updated>
+    </task>
+    <task id="LOCAL-00051" summary="排序">
+      <created>1614387526616</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614387526616</updated>
+    </task>
+    <task id="LOCAL-00052" summary="哈希表">
+      <created>1614387542460</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1614387542460</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,8 +556,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="快慢指针判断链表是否成环" />
-    <MESSAGE value="链表+双指针" />
     <MESSAGE value="数组+双指针" />
     <MESSAGE value="双指针" />
     <MESSAGE value="二叉树的前序，中序，后序" />
@@ -581,7 +579,9 @@
     <MESSAGE value="数组" />
     <MESSAGE value="dfs" />
     <MESSAGE value="数学" />
-    <option name="LAST_COMMIT_MESSAGE" value="数学" />
+    <MESSAGE value="排序" />
+    <MESSAGE value="哈希表" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈希表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -606,10 +606,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1614387525701">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1614387541749">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614387525701" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614387541749" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611122719761" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -631,10 +631,10 @@
     </state>
     <state x="-1784" y="7" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611488752061" />
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608640223075" />
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614386971197">
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614387568833">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614386971197" />
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614387568833" />
     <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611122726950" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
