@@ -42,7 +42,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_48_1 {
     public int lengthOfLongestSubstring(String s) {
         Map<Character,Integer> dic = new HashMap<>();
         int i = -1, res = 0;
