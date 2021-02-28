@@ -43,7 +43,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution {
+class Solution_59_1 {
     private int result;
     private int k;
     public int kthLargest(TreeNode root, int k) {

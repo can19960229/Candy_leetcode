@@ -181,14 +181,7 @@
       <workItem from="1610592271109" duration="598000" />
       <workItem from="1610701044930" duration="7761000" />
       <workItem from="1611063575421" duration="4316000" />
-      <workItem from="1611218292416" duration="32421000" />
-    </task>
-    <task id="LOCAL-00009" summary="双指针">
-      <created>1608638080684</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1608638080684</updated>
+      <workItem from="1611218292416" duration="32666000" />
     </task>
     <task id="LOCAL-00010" summary="二分查找">
       <created>1608641767334</created>
@@ -526,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614412518864</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="二分查找">
+      <created>1614480808892</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1614480808892</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +559,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="二叉树的前序，中序，后序" />
     <MESSAGE value="复习" />
-    <MESSAGE value="二分查找" />
     <MESSAGE value="测试" />
     <MESSAGE value="快速排序" />
     <MESSAGE value="删除链表重复节点" />
@@ -582,7 +581,8 @@
     <MESSAGE value="哈希表" />
     <MESSAGE value="双指针，滑动窗口，哈希表" />
     <MESSAGE value="动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
+    <MESSAGE value="二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="二分查找" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -607,11 +607,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1614417169972">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1614480827862">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614417169972" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614412518133" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614480827862" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -632,11 +632,11 @@
     </state>
     <state x="-1784" y="7" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611488752061" />
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608640223075" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614412526443">
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614480839158">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614396542057" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614412526443" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614480839158" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
