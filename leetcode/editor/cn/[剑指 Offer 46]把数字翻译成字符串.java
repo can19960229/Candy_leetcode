@@ -20,7 +20,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_46_1 {
     public int translateNum(int num) {
         String s = String.valueOf(num);  //把数字转换成字符串
         System.out.println(s);
