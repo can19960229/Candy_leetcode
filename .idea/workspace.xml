@@ -178,13 +178,7 @@
       <workItem from="1611063575421" duration="4316000" />
       <workItem from="1611218292416" duration="35290000" />
       <workItem from="1614510823442" duration="2040000" />
-    </task>
-    <task id="LOCAL-00014" summary="二叉树的前序，中序，后序">
-      <created>1608641933568</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1608641933568</updated>
+      <workItem from="1614513353732" duration="1792000" />
     </task>
     <task id="LOCAL-00015" summary="复习">
       <created>1608688309613</created>
@@ -522,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614510698977</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="树——二叉搜索树的中序遍历">
+      <created>1614513401581</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614513401581</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,16 +622,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293611375" />
-    <state x="-1135" y="228" width="998" height="827" key="SettingsEditor" timestamp="1614511740082">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="159" y="97" width="998" height="827" key="SettingsEditor" timestamp="1614515158238">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511740082" />
-    <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608640223075" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614513456369">
+    <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614515158238" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614515163531">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511763917" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614513456369" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614515163531" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
