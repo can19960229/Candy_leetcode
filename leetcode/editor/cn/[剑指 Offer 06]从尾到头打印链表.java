@@ -13,7 +13,7 @@
 //
 // 0 <= 链表长度 <= 10000 
 // Related Topics 链表 
-// 👍 81 👎 0
+// 👍 88 👎 0
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
@@ -28,12 +28,11 @@ import java.util.Stack;
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution_06_1{
+class Solution_06 {
     public int[] reversePrint(ListNode head) {
-        //使用栈，栈是先进后出，正好实现从尾到头打印
         Stack<ListNode> stack = new Stack<ListNode>();
         ListNode temp = head;
-        while (temp != null){
+        while (temp != null) {
             stack.push(temp);
             temp = temp.next;
         }

@@ -33,18 +33,63 @@
 //
 // 注意：本题与主站 240 题相同：https://leetcode-cn.com/problems/search-a-2d-matrix-ii/ 
 // Related Topics 数组 双指针 
-// 👍 203 👎 0
+// 👍 210 👎 0
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_04_1 {
+class Solution_04 {
+    /**
+     * 双指针
+     * @param matrix
+     * @param target
+     * @return
+     */
     public boolean findNumberIn2DArray_1(int[][] matrix, int target) {
-        int col = matrix.length - 1, row = 0;
-        while(col >= 0 && row < matrix[0].length)
-        {
-            if(matrix[col][row] > target) col--;
-            else if(matrix[col][row] < target) row++;
-            else return true;
+        if(matrix == null || matrix.length == 0){
+            return false;
+        }
+        int row = 0;
+        int col = matrix[0].length - 1;
+        while (row < matrix.length && col >= 0){
+            if(matrix[row][col] == target){
+                return true;
+            }
+            if (matrix[row][col] > target){
+                col--;
+            }
+            else{
+                row++;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * 二分法
+     * @param matrix
+     * @param target
+     * @return
+     */
+
+    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+        if (matrix == null || matrix.length == 0){
+            return false;
+        }
+        int left = 0;
+        int right = matrix.length * matrix[0].length - 1;
+        int col = matrix[0].length;
+
+        while (left <= right){
+            int mid = (left + right) / 2;
+            int value = matrix[mid / col][mid % col];
+
+            if (value == target){
+                return true;
+            }else if (value < target){
+                left = mid + 1;
+            }else {
+                right = mid - 1;
+            }
         }
         return false;
     }
