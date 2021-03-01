@@ -26,9 +26,17 @@
 // 👍 129 👎 0
 
 
+import java.util.HashMap;
+import java.util.Map;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_56_11 {
-    public int singleNumber(int[] nums) {
+    /**
+     * 位运算 + 取余
+     * @param nums
+     * @return
+     */
+    public int singleNumber_1(int[] nums) {
         if (nums == null)
             return 0;
         int[] bitSumArray = new int[32]; //用于记录 数组中数字的每一位的和
@@ -56,5 +64,31 @@ class Solution_56_11 {
         }
         return result;
     }
+
+    /**
+     * HashMap方法求解
+     */
+    // 使用 HashMap 记录各个数字出现的次数
+    public int singleNumber(int[] nums) {
+        Map<Integer,Integer> map = new HashMap<>();
+
+        for(int i = nums.length - 1;i >= 0;--i){
+            int key = nums[i];
+            if (!map.containsKey(key)){
+                //把没有遇到这一数字的加入map中
+                map.put(key,1);
+            }else {
+                //如果之前遇到过这一数字，则出现次数 + 1
+                map.put(key,map.get(key) + 1);
+            }
+        }
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() == 1){
+                return entry.getKey();
+            }
+        }
+        return - 1;
+    }
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
