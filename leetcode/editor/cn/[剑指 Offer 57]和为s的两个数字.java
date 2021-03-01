@@ -26,10 +26,9 @@
 
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_57 {
 
     /**
      * 暴力 超过时间复杂度 O(n²) 空间复杂度O(1)
