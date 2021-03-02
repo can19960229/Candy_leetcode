@@ -26,9 +26,12 @@
 // 👍 150 👎 0
 
 
+import java.util.Deque;
+import java.util.LinkedList;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_59_I {
-    public int[] maxSlidingWindow(int[] nums, int k) {
+    public int[] maxSlidingWindow_1(int[] nums, int k) {
         int n= nums.length;
         if (n * k == 0) return new int[0];
         int[] output = new int[n - k + 1];
@@ -42,5 +45,22 @@ class Solution_59_I {
         }
         return output;
     }
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        if (nums.length == 0 || k == 0) return new int[0];
+        Deque<Integer> deque = new LinkedList<>();
+        int[] res = new int[nums.length - k + 1];
+        for (int j = 0,i = 1 - k; j < nums.length;i++, j++) {
+            if (i > 0 && deque.peekFirst() == nums[i - 1])
+                deque.removeFirst();  //删除deque中对应的nums[i-1]
+            while (!deque.isEmpty() && deque.peekLast() < nums[j])
+                deque.removeLast(); // 保持deque递减
+            deque.addLast(nums[j]);
+            if (i >= 0){
+                res[i] = deque.peekFirst(); //记录窗口最大值
+            }
+        }
+        return res;
+    }
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
