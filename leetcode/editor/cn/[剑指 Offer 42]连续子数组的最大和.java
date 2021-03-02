@@ -27,7 +27,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_42_1 {
     public int maxSubArray(int[] nums) {
         int ans = nums[0];
         int sum = 0;

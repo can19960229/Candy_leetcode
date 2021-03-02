@@ -33,7 +33,7 @@ import java.util.List;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_57_11 {
-    /**
+    /**  首先该题给出的是正序的连续序列
      * 滑动窗口法
      * @param target
      * @return
@@ -65,7 +65,7 @@ class Solution_57_11 {
                 }
                 res.add(arr);
                 //左边界向右移动
-                sum -= i;
+                sum -= i; //左边界向右移动后需要减去移出滑动窗口的值
                 i++;
             }
         }

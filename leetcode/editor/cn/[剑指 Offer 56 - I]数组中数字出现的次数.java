@@ -29,6 +29,13 @@ import java.util.*;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_56_1 {
+
+    /**
+     * 传统的哈希表法 复杂度不咋地
+     * @param nums
+     * @return
+     */
+
     public int[] singleNumbers_1(int[] nums) {
         Map<Integer,Integer> dic = new HashMap<Integer, Integer>();
         for (int num : nums) {
@@ -43,6 +50,12 @@ class Solution_56_1 {
         }
         return res;
     }
+
+    /**
+     * 分组异或 算法的复杂度降低，但解题方法很难想到
+     * @param nums
+     * @return
+     */
 
     public int[] singleNumbers_2(int[] nums) {
         int x = 0,y = 0, n = 0,m = 1;
