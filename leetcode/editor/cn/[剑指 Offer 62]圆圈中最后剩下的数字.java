@@ -34,7 +34,7 @@
  */
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_62_1 {
     public int lastRemaining_1(int n, int m) {
         return f(n,m);
     }

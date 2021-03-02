@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 58 - II]左旋转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 59 - II]队列的最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 61]扑克牌中的顺子.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 42]连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 42]连续子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 56 - I]数组中数字出现的次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 56 - I]数组中数字出现的次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 57 - II]和为s的连续正数序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 57 - II]和为s的连续正数序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 59 - I]滑动窗口的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 59 - I]滑动窗口的最大值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -194,42 +188,9 @@
       <workItem from="1611063575421" duration="4316000" />
       <workItem from="1611218292416" duration="35290000" />
       <workItem from="1614510823442" duration="2040000" />
-      <workItem from="1614513353732" duration="26891000" />
-    </task>
-    <task id="LOCAL-00022" summary="删除链表节点">
-      <created>1609252256807</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1609252256807</updated>
-    </task>
-    <task id="LOCAL-00023" summary="删除链表节点">
-      <created>1609293594679</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1609293594679</updated>
-    </task>
-    <task id="LOCAL-00024" summary="1.0">
-      <created>1609294386688</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1609294386688</updated>
-    </task>
-    <task id="LOCAL-00025" summary="1.0">
-      <created>1609336798009</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336798009</updated>
-    </task>
-    <task id="LOCAL-00026" summary="删除链表重复节点">
-      <created>1609336881459</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336881459</updated>
+      <workItem from="1614513353732" duration="29813000" />
+      <workItem from="1614655390225" duration="3198000" />
+      <workItem from="1614668948092" duration="3250000" />
     </task>
     <task id="LOCAL-00027" summary="删除链表节点">
       <created>1609336897410</created>
@@ -539,7 +500,42 @@
       <option name="project" value="LOCAL" />
       <updated>1614600750842</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="约瑟夫环问题">
+      <created>1614651894572</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1614651894572</updated>
+    </task>
+    <task id="LOCAL-00072" summary="集合set/排序">
+      <created>1614651939146</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1614651939146</updated>
+    </task>
+    <task id="LOCAL-00073" summary="队列">
+      <created>1614651952509</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1614651952510</updated>
+    </task>
+    <task id="LOCAL-00074" summary="滑动窗口法">
+      <created>1614651967044</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1614651967044</updated>
+    </task>
+    <task id="LOCAL-00075" summary="字符串/数组">
+      <created>1614651987701</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1614651987701</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,10 +566,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="旋转矩阵" />
-    <MESSAGE value="复制链表" />
-    <MESSAGE value="1.0" />
-    <MESSAGE value="查找数组中元素" />
     <MESSAGE value="反转链表" />
     <MESSAGE value="树的dfs问题" />
     <MESSAGE value="链表" />
@@ -593,9 +585,13 @@
     <MESSAGE value="哈希表，数组" />
     <MESSAGE value="哈希表，数组，双指针" />
     <MESSAGE value="位运算 + 求余" />
-    <MESSAGE value="滑动窗口法" />
     <MESSAGE value="刷题" />
-    <option name="LAST_COMMIT_MESSAGE" value="刷题" />
+    <MESSAGE value="约瑟夫环问题" />
+    <MESSAGE value="集合set/排序" />
+    <MESSAGE value="队列" />
+    <MESSAGE value="滑动窗口法" />
+    <MESSAGE value="字符串/数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串/数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="197" key="#Notifications" timestamp="1614565162683">
@@ -623,11 +619,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="308" y="115" key="CommitChangelistDialog2" timestamp="1614651965988">
+    <state x="308" y="115" key="CommitChangelistDialog2" timestamp="1614651986935">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510698196" />
-    <state x="308" y="115" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614651965988" />
+    <state x="308" y="115" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614651986935" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -642,16 +638,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293611375" />
-    <state x="159" y="97" width="998" height="827" key="SettingsEditor" timestamp="1614605133533">
+    <state x="159" y="97" width="998" height="827" key="SettingsEditor" timestamp="1614652323426">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511740082" />
-    <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614605133533" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614600777693">
+    <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614652323426" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614670049617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511763917" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614600777693" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614670049617" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -687,11 +683,11 @@
     </state>
     <state x="-961" y="344" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609252506558" />
     <state x="959" y="344" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609336486761" />
-    <state x="-1329" y="326" key="git4idea.merge.GitPullDialog" timestamp="1614510612269">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="591" y="326" key="git4idea.merge.GitPullDialog" timestamp="1614668520624">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1329" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510612269" />
-    <state x="591" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611063937260" />
+    <state x="591" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614668520624" />
     <state x="378" y="214" key="new project wizard" timestamp="1609851289972">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

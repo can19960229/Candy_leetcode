@@ -20,6 +20,13 @@ public class ListNode {
     }
 }*/
 
+    /**
+     * 双指针解法
+     * 第一个指针先走k步，第二个指针再走
+     * @param head
+     * @param k
+     * @return
+     */
     public ListNode FindKthToTail(ListNode head,int k) {
         if(head == null || k == 0){
             return null;
@@ -37,6 +44,30 @@ public class ListNode {
             fast = fast.next;
         }
         return slow;
+    }
+
+    /**
+     *
+     * 先计算节点数n，再取第n-k个节点
+     *
+     * @param pHead ListNode类
+     * @param k int整型
+     * @return ListNode类
+     */
+    public ListNode FindKthToTail_1 (ListNode pHead, int k) {
+        // write code here
+
+        ListNode res = pHead;
+        int count = 0;
+        while(pHead != null){
+            pHead = pHead.next;
+            count++;
+        }
+        if(count < k) return null;
+        for(int i = 0;i < count - k;i++){
+            res = res.next;
+        }
+        return res;
     }
 
 }
