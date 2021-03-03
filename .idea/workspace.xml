@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="链表">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[123]买卖股票的最佳时机 III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 58 - I]翻转单词顺序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 64]求1+2+…+n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 65]不用加减乘除做加法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,14 +196,7 @@
       <workItem from="1614510823442" duration="2040000" />
       <workItem from="1614513353732" duration="29813000" />
       <workItem from="1614655390225" duration="3198000" />
-      <workItem from="1614668948092" duration="3250000" />
-    </task>
-    <task id="LOCAL-00027" summary="删除链表节点">
-      <created>1609336897410</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336897410</updated>
+      <workItem from="1614668948092" duration="15031000" />
     </task>
     <task id="LOCAL-00028" summary="翻转链表">
       <created>1609336907416</created>
@@ -535,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614651987701</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="链表">
+      <created>1614676038172</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1614676038172</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +574,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="反转链表" />
     <MESSAGE value="树的dfs问题" />
-    <MESSAGE value="链表" />
     <MESSAGE value="二叉树的层序遍历" />
     <MESSAGE value="二叉树" />
     <MESSAGE value="二叉树的遍历" />
@@ -591,7 +596,8 @@
     <MESSAGE value="队列" />
     <MESSAGE value="滑动窗口法" />
     <MESSAGE value="字符串/数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串/数组" />
+    <MESSAGE value="链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="197" key="#Notifications" timestamp="1614565162683">
@@ -619,11 +625,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="308" y="115" key="CommitChangelistDialog2" timestamp="1614651986935">
+    <state x="308" y="115" key="CommitChangelistDialog2" timestamp="1614740590350">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510698196" />
-    <state x="308" y="115" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614651986935" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614684912598" />
+    <state x="308" y="115" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614740590350" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -643,11 +649,11 @@
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511740082" />
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614652323426" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614670049617">
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614733148092">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511763917" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614670049617" />
+    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614676047840" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614733148092" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
