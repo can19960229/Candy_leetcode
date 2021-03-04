@@ -41,8 +41,8 @@ class Solution_62_1 {
     public int f(int n,int m){
         if (n == 1)
             return 0;
-        int x = f(n - 1,m);
-        return (m + x) % n;
+        int x = f(n - 1,m);  // 查找 有n-1个数字 的情况下，删除第m个数字 的剩余元素
+        return (m + x) % n; // 根据 上一轮的计算结果，计算 本轮剩余元素
     }
 
     public int lastRemaining(int n,int m){

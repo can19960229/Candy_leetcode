@@ -25,11 +25,13 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_64{
+class Solution_64_1 {
+    int res = 0;
     public int sumNums(int n) {
-        if (n == 1)return 1;
-        n += sumNums(n - 1);
-        return n;
+        boolean x = n > 1 && sumNums(n - 1) > 0;
+        res += n;
+        return res;
     }
 }
+
 //leetcode submit region end(Prohibit modification and deletion)
