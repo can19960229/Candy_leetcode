@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="树——二叉搜索树的中序遍历">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2]两数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3]无重复字符的最长子串.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 62]圆圈中最后剩下的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 64]求1+2+…+n.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 64]求1+2+…+n.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -186,21 +181,7 @@
       <workItem from="1614510823442" duration="2040000" />
       <workItem from="1614741145854" duration="347000" />
       <workItem from="1614741513965" duration="3750000" />
-      <workItem from="1614755145221" duration="7869000" />
-    </task>
-    <task id="LOCAL-00014" summary="二叉树的前序，中序，后序">
-      <created>1608641933568</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1608641933568</updated>
-    </task>
-    <task id="LOCAL-00015" summary="复习">
-      <created>1608688309613</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1608688309613</updated>
+      <workItem from="1614755145221" duration="12272000" />
     </task>
     <task id="LOCAL-00016" summary="二分查找">
       <created>1608688324823</created>
@@ -531,7 +512,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614510698977</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="链表">
+      <created>1614824571573</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614824571574</updated>
+    </task>
+    <task id="LOCAL-00064" summary="刷题">
+      <created>1614824585247</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1614824585247</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +575,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="测试" />
     <MESSAGE value="快速排序" />
     <MESSAGE value="删除链表重复节点" />
     <MESSAGE value="翻转链表" />
@@ -591,7 +585,6 @@
     <MESSAGE value="查找数组中元素" />
     <MESSAGE value="反转链表" />
     <MESSAGE value="树的dfs问题" />
-    <MESSAGE value="链表" />
     <MESSAGE value="二叉树的层序遍历" />
     <MESSAGE value="二叉树" />
     <MESSAGE value="二叉树的遍历" />
@@ -605,7 +598,9 @@
     <MESSAGE value="二分查找" />
     <MESSAGE value="树——二叉树的遍历" />
     <MESSAGE value="树——二叉搜索树的中序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="树——二叉搜索树的中序遍历" />
+    <MESSAGE value="链表" />
+    <MESSAGE value="刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="刷题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -629,20 +624,20 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1614824570607">
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1614824584473">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510698196" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614824570607" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614824584473" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
-    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1614307850609">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1614842043417">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614307850609" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610543004531" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614842043417" />
     <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444871689" />
     <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -653,11 +648,11 @@
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511740082" />
     <state x="159" y="97" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614755162618" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614755222854">
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1614824592006">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614511763917" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614755222854" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614824592006" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -707,9 +702,10 @@
     </state>
     <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851289972" />
     <state x="2298" y="214" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444884603" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1608294669894">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1614844709828">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614844709828" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608294669894" />
   </component>
 </project>
