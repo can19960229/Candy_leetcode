@@ -52,7 +52,7 @@ import java.util.Map;
 import java.util.Set;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_3 {
 
     /**
      * 我自己写的题解，感觉有点像暴力递归，没错，就是暴力
@@ -84,7 +84,7 @@ class Solution {
     }
 
     /**
-     * 牛客网给出的官方题解
+     * 力扣给出的官方题解
      * @param s
      * @return
      */
