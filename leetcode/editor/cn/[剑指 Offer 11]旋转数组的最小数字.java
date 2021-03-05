@@ -20,7 +20,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_11 {
+class Solution_11_1 {
     public int minArray(int[] numbers) {
         int low = 0;
         int high = numbers.length - 1;

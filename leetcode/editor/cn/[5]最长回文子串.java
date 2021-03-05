@@ -48,7 +48,12 @@ import java.util.HashSet;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_5 {
+    /**
+     * 暴力求解 时间复杂度太高
+     * @param s
+     * @return
+     */
     public String longestPalindrome(String s) {
         int n = s.length();
         if (n < 2){
