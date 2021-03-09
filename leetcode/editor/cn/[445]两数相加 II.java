@@ -65,12 +65,9 @@ class Solution_445 {
 
             flag = sum / 10; //进位
 
-
-
             ListNode tmp = new ListNode(sum % 10);
             tmp.next = head.next;
             head.next = tmp;
-
 
         }
 
