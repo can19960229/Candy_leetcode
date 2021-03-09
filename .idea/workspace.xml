@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1750]删除字符串两端相同字符后的最短长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.01]移除重复节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.02]返回倒数第 k 个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.03]删除中间节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表是否有环.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的翻转.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1750]删除字符串两端相同字符后的最短长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1750]删除字符串两端相同字符后的最短长度.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 32 - I]从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 32 - I]从上到下打印二叉树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,13 +196,6 @@
       <workItem from="1614741145854" duration="347000" />
       <workItem from="1614741513965" duration="3750000" />
       <workItem from="1614755145221" duration="20950000" />
-    </task>
-    <task id="LOCAL-00023" summary="删除链表节点">
-      <created>1609293594679</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1609293594679</updated>
     </task>
     <task id="LOCAL-00024" summary="1.0">
       <created>1609294386688</created>
@@ -534,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615191857314</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="双指针">
+      <created>1615195226051</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1615195226051</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,10 +638,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615191855605">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615195225042">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615191855605" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615195225042" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615165575890" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -714,10 +720,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1080" y="256" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615018946680" />
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1614844709828">
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1615195746562">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614844709828" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615195746562" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608294669894" />
   </component>
 </project>
