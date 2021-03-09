@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.01]移除重复节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.02]返回倒数第 k 个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.03]删除中间节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表是否有环.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的翻转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[445]两数相加 II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1750]删除字符串两端相同字符后的最短长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1750]删除字符串两端相同字符后的最短长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 32 - I]从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 32 - I]从上到下打印二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.01]移除重复节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 02.01]移除重复节点.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,27 +190,6 @@
       <workItem from="1614741145854" duration="347000" />
       <workItem from="1614741513965" duration="3750000" />
       <workItem from="1614755145221" duration="20950000" />
-    </task>
-    <task id="LOCAL-00024" summary="1.0">
-      <created>1609294386688</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1609294386688</updated>
-    </task>
-    <task id="LOCAL-00025" summary="1.0">
-      <created>1609336798009</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336798009</updated>
-    </task>
-    <task id="LOCAL-00026" summary="删除链表重复节点">
-      <created>1609336881459</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336881459</updated>
     </task>
     <task id="LOCAL-00027" summary="删除链表节点">
       <created>1609336897410</created>
@@ -540,7 +513,28 @@
       <option name="project" value="LOCAL" />
       <updated>1615195226051</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="链表">
+      <created>1615273592247</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1615273592247</updated>
+    </task>
+    <task id="LOCAL-00074" summary="左右指针">
+      <created>1615273630532</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1615273630532</updated>
+    </task>
+    <task id="LOCAL-00075" summary="BFS">
+      <created>1615273641403</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1615273641403</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +583,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1.0" />
     <MESSAGE value="查找数组中元素" />
     <MESSAGE value="反转链表" />
     <MESSAGE value="树的dfs问题" />
@@ -606,15 +599,16 @@
     <MESSAGE value="二分查找" />
     <MESSAGE value="树——二叉树的遍历" />
     <MESSAGE value="树——二叉搜索树的中序遍历" />
-    <MESSAGE value="链表" />
     <MESSAGE value="刷题" />
     <MESSAGE value="最长子串" />
     <MESSAGE value="字符串" />
     <MESSAGE value="回溯法" />
     <MESSAGE value="动态规划、贪心" />
-    <MESSAGE value="BFS" />
     <MESSAGE value="双指针" />
-    <option name="LAST_COMMIT_MESSAGE" value="双指针" />
+    <MESSAGE value="链表" />
+    <MESSAGE value="左右指针" />
+    <MESSAGE value="BFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -638,10 +632,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615273629479">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615273640368">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615273629479" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615273640368" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615165575890" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />

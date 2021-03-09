@@ -41,7 +41,7 @@ import java.util.Set;
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class Solution_02_01 {
     /**
      * 双重循环，逐一比较
      * @param head
