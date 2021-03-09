@@ -32,6 +32,7 @@
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 /**
@@ -44,24 +45,29 @@ import java.util.Queue;
  * }
  */
 class Solution_32_1 {
+
     public int[] levelOrder(TreeNode root) {
         if (root == null) return new int[0];
-        Queue<TreeNode> queue = new LinkedList<>(){{
-                add(root);
-            }
-        };
-        ArrayList<Integer> ans = new ArrayList<>();
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        List<Integer> list = new ArrayList<>();
+
+        queue.offer(root);
         while (!queue.isEmpty()){
-            TreeNode node = queue.poll();
-            ans.add(node.val);
-            if (node.left != null) queue.add(node.left);
-            if (node.right != null) queue.add(node.right);
+            TreeNode node = queue.poll(); //出队
+
+            list.add(node.val);//把节点值存放到list中
+            if (node.left != null)
+                queue.add(node.left);
+            if (node.right != null)
+                queue.add(node.right);
         }
-        int[] res = new int[ans.size()];
-        for (int i = 0; i < ans.size(); i++) {
-            res[i] = ans.get(i);
+        int[] res = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            res[i] = list.get(i);
         }
         return res;
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
