@@ -54,7 +54,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_1750 {
     public int minimumLength(String s) {
         int left = 0;
         int right = s.length() - 1;
