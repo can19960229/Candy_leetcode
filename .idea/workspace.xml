@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 36]二叉搜索树与双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[424]替换后的最长重复字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[567]字符串的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[76]最小覆盖子串.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[445]两数相加 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[445]两数相加 II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pinyougou_parent" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -190,13 +193,7 @@
       <workItem from="1614741145854" duration="347000" />
       <workItem from="1614741513965" duration="3750000" />
       <workItem from="1614755145221" duration="20950000" />
-    </task>
-    <task id="LOCAL-00028" summary="翻转链表">
-      <created>1609336907416</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1609336907416</updated>
+      <workItem from="1615340843214" duration="8594000" />
     </task>
     <task id="LOCAL-00029" summary="删除链表节点">
       <created>1609337070726</created>
@@ -534,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615276382967</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="链表">
+      <created>1615299752360</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1615299752360</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,21 +636,20 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615276382014">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615299751243">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615276382014" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615299751243" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615165575890" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
-    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1614867038005">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1615342427412">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614867038005" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614842043417" />
-    <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444871689" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615342427412" />
     <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -673,7 +676,6 @@
     </state>
     <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610418492250" />
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614741166527" />
-    <state x="2560" y="362" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606377741532" />
     <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609851217796">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -705,11 +707,10 @@
     </state>
     <state x="-1329" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510612269" />
     <state x="591" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614741877563" />
-    <state x="378" y="214" key="new project wizard" timestamp="1609851289972">
+    <state x="378" y="214" key="new project wizard" timestamp="1615341031120">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851289972" />
-    <state x="2298" y="214" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1606444884603" />
+    <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615341031120" />
     <state x="-1080" y="256" key="run.anything.popup" timestamp="1615018946680">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
