@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1208]尽可能使字符串相等.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[300]最长递增子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[354]俄罗斯套娃信封问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[86]分隔链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,21 +191,8 @@
       <workItem from="1614741513965" duration="3750000" />
       <workItem from="1614755145221" duration="20950000" />
       <workItem from="1615340843214" duration="8914000" />
-      <workItem from="1615462073488" duration="5067000" />
-    </task>
-    <task id="LOCAL-00031" summary="复制链表">
-      <created>1609681170126</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1609681170126</updated>
-    </task>
-    <task id="LOCAL-00032" summary="复制链表">
-      <created>1609681256326</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1609681256326</updated>
+      <workItem from="1615462073488" duration="5109000" />
+      <workItem from="1615472807628" duration="2535000" />
     </task>
     <task id="LOCAL-00033" summary="复制链表">
       <created>1609681334382</created>
@@ -537,7 +523,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615463627250</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="动态规划">
+      <created>1615467390726</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467390726</updated>
+    </task>
+    <task id="LOCAL-00081" summary="滑动窗口法">
+      <created>1615467404401</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467404401</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +597,6 @@
     <MESSAGE value="排序" />
     <MESSAGE value="哈希表" />
     <MESSAGE value="双指针，滑动窗口，哈希表" />
-    <MESSAGE value="动态规划" />
     <MESSAGE value="二分查找" />
     <MESSAGE value="树——二叉树的遍历" />
     <MESSAGE value="树——二叉搜索树的中序遍历" />
@@ -610,6 +609,7 @@
     <MESSAGE value="左右指针" />
     <MESSAGE value="BFS" />
     <MESSAGE value="链表" />
+    <MESSAGE value="动态规划" />
     <MESSAGE value="滑动窗口法" />
     <option name="LAST_COMMIT_MESSAGE" value="滑动窗口法" />
   </component>
@@ -635,19 +635,19 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615467389456">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615467403502">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615467389456" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615467403502" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615382645756" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1615342427412">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1615467415777">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614867038005" />
+    <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615467415777" />
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615342427412" />
     <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
       <screen x="0" y="0" width="1920" height="1080" />
