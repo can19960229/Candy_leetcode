@@ -275,6 +275,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1668]最大重复子字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1668]最大重复子字符串.java" />
+              <option name="questionId" value="1764" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[169]多数元素.java">
           <value>
             <LeetcodeEditor>
@@ -763,6 +771,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[560]和为K的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[560]和为K的子数组.java" />
+              <option name="questionId" value="560" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[567]字符串的排列.java">
           <value>
             <LeetcodeEditor>
@@ -864,6 +880,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[70]爬楼梯.java" />
               <option name="questionId" value="70" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[718]最长重复子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[718]最长重复子数组.java" />
+              <option name="questionId" value="718" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1160,6 +1184,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 39]数组中出现次数超过一半的数字.java" />
               <option name="questionId" value="100310" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 42]连续子数组的最大和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 42]连续子数组的最大和.java" />
+              <option name="questionId" value="100304" />
             </LeetcodeEditor>
           </value>
         </entry>
