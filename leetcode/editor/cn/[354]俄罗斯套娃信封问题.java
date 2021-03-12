@@ -38,7 +38,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_354 {
     public int maxEnvelopes(int[][] envelopes) {
         int n = envelopes.length;
         Arrays.sort(envelopes, new Comparator<int[]>() {
