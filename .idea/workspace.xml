@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1004]最大连续1的个数 III.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[39]组合总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[40]组合总和 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[77]组合.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 40]最小的k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 40]最小的k个数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,14 +194,7 @@
       <workItem from="1614755145221" duration="20950000" />
       <workItem from="1615340843214" duration="8914000" />
       <workItem from="1615462073488" duration="5109000" />
-      <workItem from="1615472807628" duration="20328000" />
-    </task>
-    <task id="LOCAL-00037" summary="查找数组中元素">
-      <created>1610333850301</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1610333850301</updated>
+      <workItem from="1615472807628" duration="29000000" />
     </task>
     <task id="LOCAL-00038" summary="反转链表">
       <created>1610333865455</created>
@@ -537,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615562060245</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="动态规划解决字符串、数组的问题">
+      <created>1615769889158</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1615769889158</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,11 +637,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1615562059241">
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1615769887803">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615467403502" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615562059241" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615769887803" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -653,11 +655,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293611375" />
-    <state x="159" y="97" width="1373" height="738" key="SettingsEditor" timestamp="1614927235712">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1482" y="113" width="1373" height="738" key="SettingsEditor" timestamp="1615776336326">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614907247370" />
-    <state x="159" y="97" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614927235712" />
+    <state x="-1482" y="113" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615776336326" />
     <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1615562068516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -667,7 +669,7 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1161" y="316" key="chooseDestDirectoryDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640554216" />
-    <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608729965268">
+    <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615779061448">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1614741166527">
