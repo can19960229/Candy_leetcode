@@ -22,7 +22,7 @@ import java.util.Deque;
 import java.util.List;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_77 {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
         if (k <= 0 || n < k){
