@@ -28,7 +28,7 @@
 import java.util.Arrays;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_40 {
+class Solution_40_1 {
     public int[] getLeastNumbers_1(int[] arr, int k) {
         Arrays.sort(arr);
         int[] ar = new int[k];
