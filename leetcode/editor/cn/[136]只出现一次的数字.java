@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_136 {
     /**
      * 哈希表
      * @param nums
