@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[448]找到所有数组中消失的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/最小覆盖子串.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,14 +195,7 @@
       <workItem from="1614755145221" duration="20950000" />
       <workItem from="1615340843214" duration="8914000" />
       <workItem from="1615462073488" duration="5109000" />
-      <workItem from="1615472807628" duration="41388000" />
-    </task>
-    <task id="LOCAL-00042" summary="链表">
-      <created>1610523674536</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1610523674536</updated>
+      <workItem from="1615472807628" duration="52993000" />
     </task>
     <task id="LOCAL-00043" summary="二叉树的层序遍历">
       <created>1610523787213</created>
@@ -537,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615820629123</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="位运算/数组/奇技淫巧(使用负数标记)">
+      <created>1615858811231</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1615858811231</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +589,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="二叉树的遍历" />
     <MESSAGE value="数组" />
     <MESSAGE value="dfs" />
     <MESSAGE value="数学" />
@@ -611,7 +613,8 @@
     <MESSAGE value="排序" />
     <MESSAGE value="回溯法 + 剪枝" />
     <MESSAGE value="位运算" />
-    <option name="LAST_COMMIT_MESSAGE" value="位运算" />
+    <MESSAGE value="位运算/数组/奇技淫巧(使用负数标记)" />
+    <option name="LAST_COMMIT_MESSAGE" value="位运算/数组/奇技淫巧(使用负数标记)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -635,10 +638,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615858744528">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1615858810248">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615858744528" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615858810248" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615779237278" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
