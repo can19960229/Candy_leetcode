@@ -299,6 +299,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[160]相交链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[160]相交链表.java" />
+              <option name="questionId" value="160" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1668]最大重复子字符串.java">
           <value>
             <LeetcodeEditor>
@@ -328,6 +336,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.java" />
               <option name="questionId" value="188" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[189]旋转数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[189]旋转数组.java" />
+              <option name="questionId" value="189" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -424,6 +440,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[216]组合总和 III.java" />
               <option name="questionId" value="216" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.java" />
+              <option name="questionId" value="217" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -555,6 +579,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[31]下一个排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[31]下一个排列.java" />
+              <option name="questionId" value="31" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[322]零钱兑换.java">
           <value>
             <LeetcodeEditor>
@@ -568,6 +600,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[33]搜索旋转排序数组.java" />
               <option name="questionId" value="33" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[347]前 K 个高频元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[347]前 K 个高频元素.java" />
+              <option name="questionId" value="347" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -955,6 +995,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[72]编辑距离.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[72]编辑距离.java" />
+              <option name="questionId" value="72" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[746]使用最小花费爬楼梯.java">
           <value>
             <LeetcodeEditor>
@@ -1184,6 +1232,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 29]顺时针打印矩阵.java" />
               <option name="questionId" value="100293" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 30]包含min函数的栈.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 30]包含min函数的栈.java" />
+              <option name="questionId" value="100302" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 31]栈的压入、弹出序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 31]栈的压入、弹出序列.java" />
+              <option name="questionId" value="100306" />
             </LeetcodeEditor>
           </value>
         </entry>

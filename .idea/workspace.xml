@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/最小覆盖子串.java" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="滑动窗口">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[160]相交链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[189]旋转数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[31]下一个排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[347]前 K 个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[72]编辑距离.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 31]栈的压入、弹出序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 31]栈的压入、弹出序列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,28 +199,7 @@
       <workItem from="1614755145221" duration="20950000" />
       <workItem from="1615340843214" duration="8914000" />
       <workItem from="1615462073488" duration="5109000" />
-      <workItem from="1615472807628" duration="52993000" />
-    </task>
-    <task id="LOCAL-00043" summary="二叉树的层序遍历">
-      <created>1610523787213</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1610523787213</updated>
-    </task>
-    <task id="LOCAL-00044" summary="二叉树的遍历">
-      <created>1611063884544</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1611063884544</updated>
-    </task>
-    <task id="LOCAL-00045" summary="数组">
-      <created>1611063907630</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1611063907630</updated>
+      <workItem from="1615472807628" duration="68852000" />
     </task>
     <task id="LOCAL-00046" summary="dfs">
       <created>1611063918450</created>
@@ -540,7 +523,28 @@
       <option name="project" value="LOCAL" />
       <updated>1615858811231</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="dfs">
+      <created>1615906349229</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1615906349229</updated>
+    </task>
+    <task id="LOCAL-00093" summary="动态规划">
+      <created>1615906369101</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1615906369101</updated>
+    </task>
+    <task id="LOCAL-00094" summary="滑动窗口">
+      <created>1615906447159</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1615906447159</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,8 +593,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="数组" />
-    <MESSAGE value="dfs" />
     <MESSAGE value="数学" />
     <MESSAGE value="哈希表" />
     <MESSAGE value="双指针，滑动窗口，哈希表" />
@@ -607,14 +609,16 @@
     <MESSAGE value="链表" />
     <MESSAGE value="滑动窗口法" />
     <MESSAGE value="双指针" />
-    <MESSAGE value="动态规划" />
     <MESSAGE value="动态规划解决字符串、数组的问题" />
     <MESSAGE value="回溯 + 剪枝" />
     <MESSAGE value="排序" />
     <MESSAGE value="回溯法 + 剪枝" />
     <MESSAGE value="位运算" />
     <MESSAGE value="位运算/数组/奇技淫巧(使用负数标记)" />
-    <option name="LAST_COMMIT_MESSAGE" value="位运算/数组/奇技淫巧(使用负数标记)" />
+    <MESSAGE value="dfs" />
+    <MESSAGE value="动态规划" />
+    <MESSAGE value="滑动窗口" />
+    <option name="LAST_COMMIT_MESSAGE" value="滑动窗口" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -638,20 +642,20 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1615906366866">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1616038051689">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615858810248" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615906366866" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616038051689" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615906446075" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609294289248" />
-    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1615684907720">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1615946439973">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615684907720" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615573954936" />
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615946439973" />
     <state x="711" y="261" key="RollbackChangesDialog" timestamp="1609293611375">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -661,11 +665,11 @@
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614907247370" />
     <state x="-1482" y="113" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615776336326" />
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1615819420156">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1615906452914">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615819420156" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615779307392" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615906452914" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
