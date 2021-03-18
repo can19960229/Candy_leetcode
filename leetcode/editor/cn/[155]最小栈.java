@@ -43,14 +43,14 @@
 import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class MinStack {
+class MinStack_1 {
 
     /** initialize your data structure here. */
     /**
      * 初始化栈
      */
     private Stack<Node> stack;
-    public MinStack() {
+    public MinStack_1() {
         stack = new Stack<>();
     }
 

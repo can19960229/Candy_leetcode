@@ -36,7 +36,7 @@
 import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_31 {
+class Solution_31_1 {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
         Stack<Integer> stack = new Stack<>();  //建立一个辅助栈
         int i = 0;
