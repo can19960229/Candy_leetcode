@@ -50,7 +50,7 @@ import java.util.LinkedList;
  *     }
  * }
  */
-class Solution {
+class Solution_101 {
     public boolean isSymmetric_1(TreeNode root) {
         if (root == null ||(root.left == null && root.right == null))
             return true;
