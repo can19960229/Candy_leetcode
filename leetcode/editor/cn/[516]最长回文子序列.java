@@ -43,7 +43,7 @@
 import org.omg.CORBA.MARSHAL;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_516 {
     public int longestPalindromeSubseq(String s) {
         int n = s.length();
         int[][] f = new int[n][n];
