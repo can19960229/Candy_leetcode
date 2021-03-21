@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="数组">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[118]杨辉三角.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[128]最长连续序列.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[131]分割回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[96]不同的二叉搜索树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[516]最长回文子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[516]最长回文子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[169]多数元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[169]多数元素.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,14 +195,7 @@
       <workItem from="1615340843214" duration="8914000" />
       <workItem from="1615462073488" duration="5109000" />
       <workItem from="1615472807628" duration="83929000" />
-      <workItem from="1616246272945" duration="6176000" />
-    </task>
-    <task id="LOCAL-00054" summary="双指针，滑动窗口，哈希表">
-      <created>1614393000945</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1614393000945</updated>
+      <workItem from="1616246272945" duration="9867000" />
     </task>
     <task id="LOCAL-00055" summary="双指针，滑动窗口，哈希表">
       <created>1614396491696</created>
@@ -545,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616160778507</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="测试">
+      <created>1616331732417</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1616331732417</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +589,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="树——二叉树的遍历" />
     <MESSAGE value="树——二叉搜索树的中序遍历" />
     <MESSAGE value="刷题" />
     <MESSAGE value="最长子串" />
@@ -619,7 +613,8 @@
     <MESSAGE value="动态规划" />
     <MESSAGE value="回文串" />
     <MESSAGE value="数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -643,10 +638,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1616160789266">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1616331730635">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616069800075" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616331730635" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616160789266" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -687,10 +682,6 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851217796" />
-    <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607259913855">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="776" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1607259913855" />
     <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608628604763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
