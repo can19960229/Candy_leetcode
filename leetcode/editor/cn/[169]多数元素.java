@@ -24,27 +24,31 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_169 {
-    public int majorityElement(int[] nums) {
-        Map<Integer,Integer> counts = count(nums);
-        Map.Entry<Integer, Integer> max = null;
-        for (Map.Entry<Integer,Integer> entry : counts.entrySet()) {
-            if (max == null || entry.getValue() > max.getValue()){
-                max = entry;
+class Solution {
+    private Map<Integer, Integer> countNums(int[] nums) {
+        Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
+        for (int num : nums) {
+            if (!counts.containsKey(num)) {
+                counts.put(num, 1);
+            } else {
+                counts.put(num, counts.get(num) + 1);
             }
         }
-        return max.getKey();
+        return counts;
     }
-    private Map<Integer,Integer> count(int[] nums){
-        Map<Integer,Integer> res = new HashMap<Integer,Integer>();
-        for(int i = 0; i < nums.length - 1 ; i++){
-            if(!res.containsKey(nums[i])){
-                res.put(nums[i],1);
-            }else {
-                res.put(nums[i],res.get(nums) +1);
+
+    public int majorityElement(int[] nums) {
+        Map<Integer, Integer> counts = countNums(nums);
+
+        Map.Entry<Integer, Integer> majorityEntry = null;
+        for (Map.Entry<Integer, Integer> entry : counts.entrySet()) {
+            if (majorityEntry == null || entry.getValue() > majorityEntry.getValue()) {
+                majorityEntry = entry;
             }
         }
-        return res;
+
+        return majorityEntry.getKey();
     }
 }
+
 //leetcode submit region end(Prohibit modification and deletion)
