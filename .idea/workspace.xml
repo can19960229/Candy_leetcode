@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="回文串">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="数组">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[128]最长连续序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[131]分割回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[96]不同的二叉搜索树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[516]最长回文子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[516]最长回文子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +76,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -193,14 +199,8 @@
       <workItem from="1614755145221" duration="20950000" />
       <workItem from="1615340843214" duration="8914000" />
       <workItem from="1615462073488" duration="5109000" />
-      <workItem from="1615472807628" duration="81340000" />
-    </task>
-    <task id="LOCAL-00053" summary="动态规划">
-      <created>1614392983861</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1614392983861</updated>
+      <workItem from="1615472807628" duration="83929000" />
+      <workItem from="1616246272945" duration="6176000" />
     </task>
     <task id="LOCAL-00054" summary="双指针，滑动窗口，哈希表">
       <created>1614393000945</created>
@@ -538,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616069801150</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="数组">
+      <created>1616160778507</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1616160778507</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,13 +613,13 @@
     <MESSAGE value="位运算/数组/奇技淫巧(使用负数标记)" />
     <MESSAGE value="dfs" />
     <MESSAGE value="滑动窗口" />
-    <MESSAGE value="数组" />
     <MESSAGE value="栈" />
     <MESSAGE value="深度优先遍历" />
     <MESSAGE value="链表" />
     <MESSAGE value="动态规划" />
     <MESSAGE value="回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="回文串" />
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Project_Structure" timestamp="1610435169354">
@@ -636,11 +643,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1616158192738">
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1616160789266">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616069800075" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616158192738" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616160789266" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

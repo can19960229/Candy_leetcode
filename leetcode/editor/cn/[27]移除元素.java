@@ -59,7 +59,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_27 {
     public int removeElement(int[] nums, int val) {
         int len = nums.length;
         if (len == 0){

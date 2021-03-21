@@ -48,7 +48,7 @@ import java.util.Stack;
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution_27 {
+class Solution_27_1 {
     public TreeNode mirrorTree_1(TreeNode root) {
         if (root == null) return null;
         TreeNode temp = root.left;
