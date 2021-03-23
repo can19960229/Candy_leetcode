@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_169 {
     private Map<Integer, Integer> countNums(int[] nums) {
         Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
         for (int num : nums) {
