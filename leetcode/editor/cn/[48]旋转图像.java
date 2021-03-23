@@ -47,7 +47,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_48{
     /**
      * 使用辅助数组
      * @param matrix
