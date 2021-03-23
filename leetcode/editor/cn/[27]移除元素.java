@@ -60,6 +60,12 @@
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_27 {
+    /**
+     * 要知道数组的元素在内存地址中是连续的，不能单独删除数组中的某个元素，只能覆盖。
+     * @param nums
+     * @param val
+     * @return
+     */
     public int removeElement(int[] nums, int val) {
         int len = nums.length;
         if (len == 0){
