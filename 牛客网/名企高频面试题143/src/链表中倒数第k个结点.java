@@ -10,7 +10,7 @@
  *
  */
 public class 链表中倒数第k个结点 {
-    /*
+
 public class ListNode {
     int val;
     ListNode next = null;
@@ -18,7 +18,7 @@ public class ListNode {
     ListNode(int val) {
         this.val = val;
     }
-}*/
+}
 
     /**
      * 双指针解法

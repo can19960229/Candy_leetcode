@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/划分链表.java" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="数组">
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中倒数第k个结点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中环的入口节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表中环的入口节点.java" afterDir="false" />
+    </list>
+    <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/ListNode.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/Trie_1.java" beforeDir="false" />
@@ -263,6 +268,24 @@
     <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="5" start2="3" end2="10" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="265" end1="265" start2="270" end2="288" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="311" end1="311" start2="334" end2="335" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="358" end1="358" start2="382" end2="383" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="413" end1="428" start2="438" end2="440" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="758" end1="759" start2="770" end2="785" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="826" end1="827" start2="852" end2="852" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="831" end1="831" start2="856" end2="857" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="856" end1="858" start2="882" end2="884" changelist="a4cbcd94-f454-48e6-807b-858810fccbdd" />
+        <range start1="860" end1="861" start2="886" end2="887" changelist="a4cbcd94-f454-48e6-807b-858810fccbdd" />
+        <range start1="879" end1="881" start2="905" end2="911" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+        <range start1="883" end1="884" start2="913" end2="914" changelist="6e900939-c51c-4679-872f-f120666a8a6c" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1ijS2r1PYTLCHJeLN7VF5uS8lzI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -309,6 +332,7 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ListNode" />
       <recent name="" />
     </key>
   </component>
@@ -356,6 +380,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="" />
+      <changelist id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
       <created>1602419303856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -411,21 +436,8 @@
       <workItem from="1615462073488" duration="5109000" />
       <workItem from="1615472807628" duration="83929000" />
       <workItem from="1616246272945" duration="38423000" />
-      <workItem from="1616548197795" duration="1759000" />
-    </task>
-    <task id="LOCAL-00061" summary="树——二叉树的遍历">
-      <created>1614510693581</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1614510693582</updated>
-    </task>
-    <task id="LOCAL-00062" summary="树——二叉搜索树的中序遍历">
-      <created>1614510698977</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1614510698977</updated>
+      <workItem from="1616548197795" duration="2910000" />
+      <workItem from="1616553297800" duration="121000" />
     </task>
     <task id="LOCAL-00063" summary="链表">
       <created>1614824571573</created>
@@ -756,7 +768,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616508897989</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="链表">
+      <created>1616550019458</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1616550019458</updated>
+    </task>
+    <task id="LOCAL-00111" summary="数组">
+      <created>1616550025731</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1616550025731</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -824,11 +850,11 @@
     <MESSAGE value="滑动窗口" />
     <MESSAGE value="栈" />
     <MESSAGE value="深度优先遍历" />
-    <MESSAGE value="链表" />
     <MESSAGE value="回文串" />
     <MESSAGE value="测试" />
     <MESSAGE value="dfs" />
     <MESSAGE value="动态规划" />
+    <MESSAGE value="链表" />
     <MESSAGE value="数组" />
     <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
@@ -854,11 +880,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1616508896804">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1616550018145">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616508896804" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616160789266" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616550018145" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -872,16 +898,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609293611375" />
-    <state x="-1482" y="113" width="1373" height="738" key="SettingsEditor" timestamp="1615776336326">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="85" y="148" width="1373" height="738" key="SettingsEditor" timestamp="1616553417476">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614907247370" />
-    <state x="-1482" y="113" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615776336326" />
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1616508902786">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="85" y="148" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616553417476" />
+    <state x="810" y="482" key="VCS.ChangelistChooser" timestamp="1616550112423">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="810" y="482" key="VCS.ChangelistChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616550112423" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1616550128336">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616508902786" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615906452914" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616550128336" />
     <state x="-1161" y="316" key="chooseDestDirectoryDialog" timestamp="1608640554216">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
