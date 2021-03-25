@@ -6,10 +6,19 @@
  * Description: 单链表的翻转
  */
 
+import 链表题目.链表的翻转;
+
 /**
  *
  */
 public class 翻转链表 {
+    public class ListNode{
+        int val;
+        ListNode next;
+        public ListNode(int val){
+            this.val = val;
+        }
+    }
     public ListNode ReverseList(ListNode head){
         if (head ==null || head.next==null)
             return head;

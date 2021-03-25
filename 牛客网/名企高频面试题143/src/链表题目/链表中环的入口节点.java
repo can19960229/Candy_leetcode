@@ -1,4 +1,4 @@
-/**
+package 链表题目; /**
  * Copyright (C), 2019-2020
  * author  candy_chen
  * date   2020/12/28 20:52
@@ -38,4 +38,5 @@ public class 链表中环的入口节点 {
         }
         return null;
     }
+    
 }

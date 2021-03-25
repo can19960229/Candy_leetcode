@@ -6,6 +6,7 @@
  * Description: 测试
  */
 
+
 import java.util.HashMap;
 
 /**
@@ -25,4 +26,5 @@ public class 最长无重复字符子串 {
         }
         return max;
     }
+
 }
