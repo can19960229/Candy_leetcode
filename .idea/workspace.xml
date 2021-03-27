@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[面试题 17.10]主要元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[977]有序数组的平方.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="">
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
@@ -213,14 +213,7 @@
       <workItem from="1616548197795" duration="2910000" />
       <workItem from="1616553297800" duration="7239000" />
       <workItem from="1616655811343" duration="203000" />
-      <workItem from="1616656021746" duration="18720000" />
-    </task>
-    <task id="LOCAL-00068" summary="回溯法">
-      <created>1615036592212</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1615036592212</updated>
+      <workItem from="1616656021746" duration="21190000" />
     </task>
     <task id="LOCAL-00069" summary="动态规划、贪心">
       <created>1615036605813</created>
@@ -558,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616761709293</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="数组">
+      <created>1616767878003</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1616767878003</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,9 +630,9 @@
     <MESSAGE value="测试" />
     <MESSAGE value="dfs" />
     <MESSAGE value="动态规划" />
-    <MESSAGE value="数组" />
     <MESSAGE value="链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表" />
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="174" key="#HTTP_Proxy" timestamp="1616553553288">
@@ -661,10 +661,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1010" y="282" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608640568289" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1616761707821">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1616767876404">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616761707821" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616767876404" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616554012184" />
     <state x="336" y="111" width="1180" height="860" key="DiffContextDialog" timestamp="1609294289248">
       <screen x="0" y="0" width="1920" height="1080" />

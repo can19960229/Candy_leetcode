@@ -25,7 +25,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_219 {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Set<Integer> set = new HashSet<>();
         for (int i = 0; i < nums.length; i++) {
