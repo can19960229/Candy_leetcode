@@ -44,7 +44,7 @@
 import java.util.Arrays;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_977 {
     /**
      * 暴力解法
      * @param nums
