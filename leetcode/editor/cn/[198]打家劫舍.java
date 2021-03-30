@@ -32,6 +32,8 @@
 // 👍 1162 👎 0
 
 
+import java.util.Arrays;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_198 {
 
@@ -40,7 +42,7 @@ class Solution_198 {
      * @param nums
      * @return
      */
-    public int rob(int[] nums) {
+    public int rob_1(int[] nums) {
         if (nums == null || nums.length == 0){
             return 0;
         }
@@ -85,6 +87,65 @@ class Solution_198 {
             pre = tmp;
         }
         return cur;
+    }
+
+    /**
+     * 自顶向下
+     */
+
+    private int[] memo;
+    // 主函数
+    public int rob_4(int[] nums) {
+        // 初始化备忘录
+        memo = new int[nums.length];
+        Arrays.fill(memo, -1);
+        // 强盗从第 0 间房⼦开始抢劫
+        return dp(nums, 0);
+    }
+    // 返回 dp[start..] 能抢到的最⼤值
+    private int dp(int[] nums, int start) {
+        if (start >= nums.length) {
+            return 0;
+        } // 避免重复计算
+        if (memo[start] != -1) return memo[start];
+        int res = Math.max(dp(nums, start + 1),
+                nums[start] + dp(nums, start + 2));
+        // 记⼊备忘录
+        memo[start] = res;
+        return res;
+    }
+
+    /**
+     * 自底向上
+     */
+    public int rob_5(int[] nums){
+        int n = nums.length;
+        //dp[i] = x 表示：
+        //从第i间房子开始抢劫，最多能抢到的钱为x
+        //base case：dp[n] = 0
+        int[] dp = new int[n + 2];
+        for (int i = n - 1;i >= 0;i--){
+            dp[i] = Math.max(dp[i + 1],nums[i] + dp[i + 2]);
+        }
+        return dp[0];
+    }
+
+    /**
+     * dp[i] 只和dp[i] 最近的两个状态dp[i + 1] 和dp[i + 2]有关，
+     */
+    public int rob(int[] nums){
+        int n = nums.length;
+        //记录dp[i + 1] 和dp[i+2]
+        int dpi1 = 0;
+        int dpi2 = 0;
+        //记录dp[i]
+        int dpi = 0;
+        for(int i = n - 1;i >= 0;i--){
+            dpi = Math.max(dpi1,nums[i] + dpi2);
+            dpi2 = dpi1;
+            dpi1 = dpi;
+        }
+        return dpi;
     }
 
 }
