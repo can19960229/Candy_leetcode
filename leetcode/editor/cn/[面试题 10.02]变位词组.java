@@ -25,7 +25,7 @@
 import java.util.*;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_10_02 {
     /**
      * 主要是两个部分：
      *
