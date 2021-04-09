@@ -50,7 +50,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_581 {
     /**
      * 排序 双指针
      *
