@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[106]从中序与后序遍历序列构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[109]有序链表转换二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[459]重复的子字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[64]最小路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[876]链表的中间结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[581]最短无序连续子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[581]最短无序连续子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[459]重复的子字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[459]重复的子字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[64]最小路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[64]最小路径和.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="">
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
@@ -223,14 +215,7 @@
       <workItem from="1616656021746" duration="39284000" />
       <workItem from="1617096756685" duration="13149000" />
       <workItem from="1617779916504" duration="6609000" />
-      <workItem from="1617950214210" duration="2311000" />
-    </task>
-    <task id="LOCAL-00074" summary="左右指针">
-      <created>1615273630532</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1615273630532</updated>
+      <workItem from="1617950214210" duration="5339000" />
     </task>
     <task id="LOCAL-00075" summary="BFS">
       <created>1615273641403</created>
@@ -568,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617110119044</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="树">
+      <created>1617964455935</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1617964455935</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +609,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="刷题" />
     <MESSAGE value="最长子串" />
     <MESSAGE value="字符串" />
     <MESSAGE value="回溯法" />
@@ -642,7 +633,8 @@
     <MESSAGE value="哈希表" />
     <MESSAGE value="数组" />
     <MESSAGE value="动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
+    <MESSAGE value="树" />
+    <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="174" key="#HTTP_Proxy" timestamp="1616553553288">
@@ -666,11 +658,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="724" y="394" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609847832625" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1617964394638">
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1617964454273">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617096307314" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617964394638" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617964454273" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1617779923829">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -689,11 +681,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="810" y="482" key="VCS.ChangelistChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616550112423" />
-    <state x="-1414" y="268" key="Vcs.Push.Dialog.v2" timestamp="1617096313959">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1617964471608">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617096313959" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616553452417" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617964471608" />
     <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615779061448">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

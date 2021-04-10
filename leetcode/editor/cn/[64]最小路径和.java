@@ -34,7 +34,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_64 {
     public int minPathSum(int[][] grid) {
         if(grid == null || grid.length == 0 || grid[0].length == 0){
             return 0;

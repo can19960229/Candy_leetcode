@@ -34,7 +34,7 @@
 import java.util.Arrays;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_459 {
     public boolean repeatedSubstringPattern(String s) {
         return kmp(s);
     }
