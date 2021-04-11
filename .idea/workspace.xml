@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[783]二叉搜索树节点最小距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[938]二叉搜索树的范围和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 27]二叉树的镜像.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="">
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
@@ -215,14 +218,7 @@
       <workItem from="1616656021746" duration="39284000" />
       <workItem from="1617096756685" duration="13149000" />
       <workItem from="1617779916504" duration="6609000" />
-      <workItem from="1617950214210" duration="7925000" />
-    </task>
-    <task id="LOCAL-00076" summary="链表">
-      <created>1615276382967</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1615276382967</updated>
+      <workItem from="1617950214210" duration="12887000" />
     </task>
     <task id="LOCAL-00077" summary="链表">
       <created>1615299752360</created>
@@ -560,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618060700104</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="二叉搜索树">
+      <created>1618131073544</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1618131073545</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +612,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="最长子串" />
     <MESSAGE value="字符串" />
     <MESSAGE value="回溯法" />
     <MESSAGE value="动态规划、贪心" />
@@ -634,7 +636,8 @@
     <MESSAGE value="数组" />
     <MESSAGE value="树" />
     <MESSAGE value="动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
+    <MESSAGE value="二叉搜索树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="174" key="#HTTP_Proxy" timestamp="1616553553288">
@@ -658,11 +661,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="724" y="394" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609847832625" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1618060698598">
+    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1618142273426">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617096307314" />
-    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618060698598" />
+    <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618142273426" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1617779923829">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -681,11 +684,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="810" y="482" key="VCS.ChangelistChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616550112423" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1618060705134">
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2" timestamp="1618131076362">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1414" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617096313959" />
-    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618060705134" />
+    <state x="506" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618131076362" />
     <state x="562" y="107" width="1162" height="790" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618130465117">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

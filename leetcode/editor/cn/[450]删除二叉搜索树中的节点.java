@@ -60,7 +60,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution_450 {
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) return null;
         if (root.val == key){

@@ -49,6 +49,11 @@ import java.util.Stack;
  * }
  */
 class Solution_27_1 {
+    /**
+     * 递归版本
+     * @param root
+     * @return
+     */
     public TreeNode mirrorTree_1(TreeNode root) {
         if (root == null) return null;
         TreeNode temp = root.left;
@@ -56,9 +61,16 @@ class Solution_27_1 {
         root.right = mirrorTree(temp);
         return root;
     }
+
+    /**
+     * 非递归版本
+     * 使用栈
+     * @param root
+     * @return
+     */
     public TreeNode mirrorTree(TreeNode root) {
         if(root == null) return null;
-        Stack<TreeNode> stack = new Stack<>() {{
+        Stack<TreeNode> stack = new Stack<TreeNode>() {{
                 add(root);
             }
         };
