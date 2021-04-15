@@ -49,7 +49,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution_938 {
     int res = 0;
     public int rangeSumBST(TreeNode root,int L,int R){
         if (root != null){
