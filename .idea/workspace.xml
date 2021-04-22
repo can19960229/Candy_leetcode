@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="链表合并问题">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1123]最深叶节点的最近公共祖先.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/单词拆分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/分割回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/最长回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/最长回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/最长回文子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/验证回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/验证回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/回文串/验证回文链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/字符串的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/字符流中第一个不重复的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/左旋转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/把字符串换成整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/旋转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/替换空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/第一个只出现一次的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/翻转单词顺序列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[409]最长回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[409]最长回文串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[567]字符串的排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[567]字符串的排列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[938]二叉搜索树的范围和.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[938]二叉搜索树的范围和.java" afterDir="false" />
-    </list>
-    <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="">
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
+    <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +91,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -218,14 +235,8 @@
       <workItem from="1616656021746" duration="39284000" />
       <workItem from="1617096756685" duration="13149000" />
       <workItem from="1617779916504" duration="6609000" />
-      <workItem from="1617950214210" duration="33809000" />
-    </task>
-    <task id="LOCAL-00079" summary="滑动窗口法">
-      <created>1615463627248</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1615463627250</updated>
+      <workItem from="1617950214210" duration="45968000" />
+      <workItem from="1618795900700" duration="24120000" />
     </task>
     <task id="LOCAL-00080" summary="动态规划">
       <created>1615467390726</created>
@@ -563,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618457063829</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="二叉树">
+      <created>1618498184976</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1618498184976</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +630,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="动态规划、贪心" />
     <MESSAGE value="左右指针" />
     <MESSAGE value="BFS" />
     <MESSAGE value="滑动窗口法" />
@@ -637,7 +654,8 @@
     <MESSAGE value="二叉搜索树" />
     <MESSAGE value="链表重排" />
     <MESSAGE value="链表合并问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表合并问题" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="174" key="#HTTP_Proxy" timestamp="1616553553288">
@@ -657,14 +675,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1307" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610721549438" />
-    <state x="724" y="394" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609847832625">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="724" y="394" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609847832625" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1618457068021">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1619076053831">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618457068021" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619076053831" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618142397266" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1617779923829">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -697,19 +711,14 @@
     </state>
     <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610418492250" />
     <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614741166527" />
-    <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609851217796">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="584" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609851217796" />
     <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616553521093">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="706" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616553521093" />
-    <state x="-961" y="344" key="extract.method.dialog" timestamp="1618454774079">
+    <state x="-961" y="344" key="extract.method.dialog" timestamp="1619058881504">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-961" y="344" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618454774079" />
-    <state x="959" y="344" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609336486761" />
+    <state x="-961" y="344" key="extract.method.dialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619058881504" />
     <state x="438" y="270" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1614754725806">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -735,9 +744,9 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1080" y="256" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615018946680" />
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1617244302865">
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1618543835238">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617244302865" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618543835238" />
   </component>
 </project>

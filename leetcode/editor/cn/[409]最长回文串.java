@@ -37,6 +37,7 @@ class Solution_409 {
             return 0;
         char[] chars = s.toCharArray();
         boolean[] arr = new boolean[58];
+
         for (int i = 0; i < chars.length; i++) {
             arr[chars[i] - 'A'] = !arr[chars[i] - 'A'];
         }
@@ -57,6 +58,7 @@ class Solution_409 {
     public int longestPalindrome(String s) {
         int n = s.length();
         HashMap<Character,Integer> map = new HashMap<>();
+        //将字符串中字符出现的次数加入到hashMap中
         for (int i = 0; i < n; i++) {
             char c = s.charAt(i);
             map.put(c,map.getOrDefault(c,0) + 1);
