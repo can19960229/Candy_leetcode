@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1011]在 D 天内送达包裹的能力.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1011]在 D 天内送达包裹的能力.java" />
+              <option name="questionId" value="1056" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java">
           <value>
             <LeetcodeEditor>
@@ -400,6 +408,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1668]最大重复子字符串.java" />
               <option name="questionId" value="1764" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java" />
+              <option name="questionId" value="167" />
             </LeetcodeEditor>
           </value>
         </entry>

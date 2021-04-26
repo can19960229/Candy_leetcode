@@ -70,7 +70,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution_1123 {
     public TreeNode lcaDeepestLeaves(TreeNode root) {
         if (root == null)
             return null;
