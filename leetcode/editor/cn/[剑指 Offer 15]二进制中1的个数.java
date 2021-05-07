@@ -42,7 +42,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_15 {
+class Solution_15_1 {
     // you need to treat n as an unsigned value
     public int hammingWeight(int n) {
         int res = 0;

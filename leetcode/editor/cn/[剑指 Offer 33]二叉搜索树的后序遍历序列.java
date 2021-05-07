@@ -34,7 +34,7 @@
 import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_33 {
+class Solution_33_1 {
     public boolean verifyPostorder_1(int[] postorder) {
         Stack <Integer> stack = new Stack<>();
         int root = Integer.MAX_VALUE;

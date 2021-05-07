@@ -12,12 +12,12 @@ import 链表题目.划分链表;
 /**
  *
  */
-public class TreeNode {
+class TreeNode1 {
 
         int val;
         TreeNode next = null;
 
-        public TreeNode(int val) {
+        public TreeNode1(int val) {
             this.val = val;
         }
 

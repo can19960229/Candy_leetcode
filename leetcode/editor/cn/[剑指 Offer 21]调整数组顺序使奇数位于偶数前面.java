@@ -20,7 +20,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_21 {
+class Solution_21_1 {
     public int[] exchange_1(int[] nums) {
 
         int i = 0, j = nums.length - 1;

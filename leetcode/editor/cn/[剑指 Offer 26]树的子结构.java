@@ -45,7 +45,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution_26 {
+class Solution_26_1 {
     public boolean isSubStructure(TreeNode A, TreeNode B) {
         return (A != null && B != null) && (recur(A,B) ||
                 isSubStructure(A.left,B) ||

@@ -35,4 +35,16 @@ public class 链表的翻转 {
         }
         return pre;
     }
+
+    //头插法
+    public ListNode reverseList(ListNode head){
+        ListNode dummy = new ListNode(0);
+        while (head != null){
+            ListNode temp = head.next;
+            head.next = dummy.next;
+            dummy.next = head;
+            head = temp;
+        }
+        return dummy.next;
+    }
 }

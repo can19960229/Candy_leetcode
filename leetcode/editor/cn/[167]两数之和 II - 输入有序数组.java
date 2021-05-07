@@ -44,7 +44,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_167 {
     public int[] twoSum(int[] numbers, int target) {
         int left = 0,right = numbers.length - 1;
         while (left < right){

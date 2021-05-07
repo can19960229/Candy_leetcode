@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution_20 {
+class Solution_20_1 {
     public boolean isNumber(String s) {
         Map[] states = {
                 new HashMap<>() {{ put(' ', 0); put('s', 1); put('d', 2); put('.', 4); }}, // 0.
