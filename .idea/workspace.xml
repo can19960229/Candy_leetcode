@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[257]二叉树的所有路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[295]数据流的中位数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/剑指offer/src/字符串/替换空格.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/剑指offer/src/数组/数组中重复的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/剑指offer/src/树/二叉树的深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/剑指offer/src/树/二叉树的镜像.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表中的节点每k个一组翻转.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/My_leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[173]二叉搜索树迭代器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 15]二进制中1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 15]二进制中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 20]表示数值的字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 20]表示数值的字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 21]调整数组顺序使奇数位于偶数前面.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 21]调整数组顺序使奇数位于偶数前面.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 26]树的子结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 26]树的子结构.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 33]二叉搜索树的后序遍历序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 33]二叉搜索树的后序遍历序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[257]二叉树的所有路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[257]二叉树的所有路径.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的翻转.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的翻转.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -237,14 +223,7 @@
       <workItem from="1619954589576" duration="3426000" />
       <workItem from="1620263323162" duration="5518000" />
       <workItem from="1620286408515" duration="1207000" />
-      <workItem from="1620358258249" duration="17000" />
-    </task>
-    <task id="LOCAL-00082" summary="双指针">
-      <created>1615475361711</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1615475361711</updated>
+      <workItem from="1620358258249" duration="3282000" />
     </task>
     <task id="LOCAL-00083" summary="动态规划">
       <created>1615561991603</created>
@@ -582,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619440379873</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="刷题">
+      <created>1620358318305</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1620358318305</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,10 +666,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620286796301" />
-    <state x="631" y="127" key="CommitChangelistDialog2" timestamp="1619440378438">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1620358316812">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619076077923" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620358316812" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619440378438" />
     <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1620287015914">
       <screen x="-1920" y="0" width="1920" height="1080" />
@@ -740,10 +726,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="378" y="214" key="new project wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1615341031120" />
-    <state x="-1273" y="156" key="refactoring.ChangeSignatureDialog" timestamp="1616846383842">
+    <state x="-1273" y="156" key="refactoring.ChangeSignatureDialog" timestamp="1620370104984">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1273" y="156" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616846383842" />
+    <state x="-1273" y="156" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620370104984" />
     <state x="-1080" y="256" key="run.anything.popup" timestamp="1615018946680">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>

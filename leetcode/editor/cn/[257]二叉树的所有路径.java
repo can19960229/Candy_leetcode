@@ -39,7 +39,7 @@ import java.util.List;
  *     }
  * }
  */
-class Solution {
+class Solution_257 {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> paths = new ArrayList<>();
         constructPaths(root,"",paths);
