@@ -52,7 +52,7 @@ import java.util.Queue;
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution_34 {
+class Solution_34_1 {
 
     LinkedList<List<Integer>> res = new LinkedList<>();
     LinkedList<Integer> path = new LinkedList<>();

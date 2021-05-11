@@ -22,6 +22,7 @@ import java.util.PriorityQueue;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_215 {
+    //维护一个大小为k的最小堆，堆顶是这k个数里的最小的，遍历完数组后返回堆顶元素即可
     public int findKthLargest(int[] nums, int k) {
         final PriorityQueue<Integer> queue = new PriorityQueue<>();
         for (int num : nums) {

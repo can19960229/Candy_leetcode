@@ -13,15 +13,15 @@ import java.util.Map;
 class Solution_20_1 {
     public boolean isNumber(String s) {
         Map[] states = {
-                new HashMap<>() {{ put(' ', 0); put('s', 1); put('d', 2); put('.', 4); }}, // 0.
-                new HashMap<>() {{ put('d', 2); put('.', 4); }},                           // 1.
-                new HashMap<>() {{ put('d', 2); put('.', 3); put('e', 5); put(' ', 8); }}, // 2.
-                new HashMap<>() {{ put('d', 3); put('e', 5); put(' ', 8); }},              // 3.
-                new HashMap<>() {{ put('d', 3); }},                                        // 4.
-                new HashMap<>() {{ put('s', 6); put('d', 7); }},                           // 5.
-                new HashMap<>() {{ put('d', 7); }},                                        // 6.
-                new HashMap<>() {{ put('d', 7); put(' ', 8); }},                           // 7.
-                new HashMap<>() {{ put(' ', 8); }}                                         // 8.
+                new HashMap<Object, Object>() {{ put(' ', 0); put('s', 1); put('d', 2); put('.', 4); }}, // 0.
+                new HashMap<Object, Object>() {{ put('d', 2); put('.', 4); }},                           // 1.
+                new HashMap<Object, Object>() {{ put('d', 2); put('.', 3); put('e', 5); put(' ', 8); }}, // 2.
+                new HashMap<Object, Object>() {{ put('d', 3); put('e', 5); put(' ', 8); }},              // 3.
+                new HashMap<Object, Object>() {{ put('d', 3); }},                                        // 4.
+                new HashMap<Object, Object>() {{ put('s', 6); put('d', 7); }},                           // 5.
+                new HashMap<Object, Object>() {{ put('d', 7); }},                                        // 6.
+                new HashMap<Object, Object>() {{ put('d', 7); put(' ', 8); }},                           // 7.
+                new HashMap<Object, Object>() {{ put(' ', 8); }}                                         // 8.
         };
         int p = 0;
         char t;

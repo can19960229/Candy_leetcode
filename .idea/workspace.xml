@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[173]二叉搜索树迭代器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/Solution_252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1288]删除被覆盖区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[222]完全二叉树的节点个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[395]至少有 K 个重复字符的最长子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[435]无重叠区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[57]插入区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/大数打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/复现代码/src/不用加减乘除做加法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[257]二叉树的所有路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[257]二叉树的所有路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[215]数组中的第K个最大元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[215]数组中的第K个最大元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 20]表示数值的字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 20]表示数值的字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 34]二叉树中和为某一值的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 34]二叉树中和为某一值的路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 57]和为s的两个数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer 57]和为s的两个数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +83,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -100,7 +110,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.两个线程打印奇偶数">
+  <component name="RunManager" selected="Application.Code_09_FindNumInSortedMatrix">
     <configuration name="两个线程打印奇偶数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="两个线程打印奇偶数" />
       <module name="My_leetcode" />
@@ -115,16 +125,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution_11" />
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubString" />
       <module name="My_leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubString" />
+    <configuration name="大数相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串问题.大数相加" />
       <module name="My_leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,7 +161,6 @@
         <item itemvalue="JUnit.最长无重复字符子串.test" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
-        <item itemvalue="Application.Solution_11" />
       </list>
     </recent_temporary>
   </component>
@@ -223,14 +238,8 @@
       <workItem from="1619954589576" duration="3426000" />
       <workItem from="1620263323162" duration="5518000" />
       <workItem from="1620286408515" duration="1207000" />
-      <workItem from="1620358258249" duration="3282000" />
-    </task>
-    <task id="LOCAL-00083" summary="动态规划">
-      <created>1615561991603</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1615561991603</updated>
+      <workItem from="1620358258249" duration="12522000" />
+      <workItem from="1620717565678" duration="14436000" />
     </task>
     <task id="LOCAL-00084" summary="动态规划">
       <created>1615562024599</created>
@@ -568,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620358318305</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="二叉搜索树">
+      <created>1620371852663</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1620371852663</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,13 +652,13 @@
     <MESSAGE value="数组" />
     <MESSAGE value="树" />
     <MESSAGE value="动态规划" />
-    <MESSAGE value="二叉搜索树" />
     <MESSAGE value="链表重排" />
     <MESSAGE value="链表合并问题" />
     <MESSAGE value="二叉树" />
     <MESSAGE value="字符串" />
     <MESSAGE value="刷题" />
-    <option name="LAST_COMMIT_MESSAGE" value="刷题" />
+    <MESSAGE value="二叉搜索树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="174" key="#HTTP_Proxy" timestamp="1616553553288">
@@ -666,10 +682,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620286796301" />
-    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1620358316812">
+    <state x="-1134" y="140" key="CommitChangelistDialog2" timestamp="1620371851859">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620358316812" />
+    <state x="-1134" y="140" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620371851859" />
     <state x="631" y="127" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619440378438" />
     <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1620287015914">
       <screen x="-1920" y="0" width="1920" height="1080" />
@@ -680,11 +696,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="711" y="261" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616553516257" />
-    <state x="-1135" y="228" width="1373" height="738" key="SettingsEditor" timestamp="1616656085557">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="142" y="158" width="1373" height="738" key="SettingsEditor" timestamp="1620724221596">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1135" y="228" width="998" height="827" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616656085557" />
-    <state x="142" y="158" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616553801309" />
+    <state x="142" y="158" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1620724221596" />
     <state x="810" y="482" key="VCS.ChangelistChooser" timestamp="1616550112423">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -734,10 +750,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1080" y="256" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615018946680" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1619188054365">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1620724574442">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618543835238" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619188054365" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1620724574442" />
   </component>
 </project>

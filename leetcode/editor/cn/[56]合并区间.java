@@ -28,6 +28,8 @@
 // 👍 719 👎 0
 
 
+import org.omg.CORBA.MARSHAL;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -35,26 +37,27 @@ import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_56 {
+    /**
+     * 首先对区间按照起始端点进行升序排序，然后逐个判断当前区间是否与前一个区间重叠，
+     * 如果不重叠的话将当前区间直接加入结果集，反之如果重叠的话，就将当前区间与前一个区间进行合并。
+     */
     public int[][] merge(int[][] intervals) {
-        List<int[] > res = new ArrayList<>();
-        if (intervals == null || intervals.length == 0){
-            return res.toArray(new int[0][]);
-        }
-        Arrays.sort(intervals,(a,b) -> a[0] - b[0]);
-        int i = 0;
-        while(i < intervals.length){
-            int left = intervals[i][0];
-            int right = intervals[i][0];
-            while (i < intervals.length - 1 && intervals[i + 1][0] <= right){
-                i++;
-                right = Math.max(right,intervals[i][1]);
+        //先按照区间起始位置排序
+        Arrays.sort(intervals,(v1,v2) -> v1[0] - v2[0]);
+        //遍历区间
+        int[][] res = new int[intervals.length][2];
+        int idx = -1;
+        for(int[] interval : intervals){
+            //如果结果数组是空的，或者当前区间的起始位置 > 结果数组中最后区间的终止位置
+            //则不合并，直接将当前区间加入结果数组
+            if (idx == -1 || interval[0] > res[idx][1]){
+                res[++idx] = interval;
+            }else {
+                //反之将当前区间合并至结果数组的最后区间
+                res[idx][1] = Math.max(res[idx][1],interval[1]);
             }
-            res.add(new int[]{left,right});
-            i++;
         }
-        return res.toArray(new int[0][]);
+        return Arrays.copyOf(res,idx + 1);
     }
-
-
 }
 //leetcode submit region end(Prohibit modification and deletion)
