@@ -44,7 +44,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution_435 {
     public int eraseOverlapIntervals(int[][] intervals) {
         if (intervals.length == 0){
             return 0;

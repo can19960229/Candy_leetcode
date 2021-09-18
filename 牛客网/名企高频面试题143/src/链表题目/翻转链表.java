@@ -1,4 +1,4 @@
-/**
+package 链表题目; /**
  * Copyright (C), 2019-2020
  * author  candy_chen
  * date   2020/12/22 20:33
@@ -38,6 +38,22 @@ public class 翻转链表 {
             head = p;
         }
         return pre;//当循环结束时,pre所指的就是反转链表的头结点
+    }
+
+    public ListNode reverse(ListNode head){
+        if (head == null || head.next == null){
+            return head;
+        }
+
+        ListNode pre = null;
+        ListNode cur = head;
+        while (cur != null){
+            ListNode temp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = temp;
+        }
+        return pre;
     }
 
 }
