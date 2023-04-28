@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/牛客网/复现代码/src/Main.java" afterDir="false" />
+    <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[111]二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[111]二叉树的最小深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[225]用队列实现栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[225]用队列实现栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[232]用栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[232]用栈实现队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +53,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="1ijS2r1PYTLCHJeLN7VF5uS8lzI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,7 +74,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -298,13 +299,7 @@
       <workItem from="1680440439182" duration="157000" />
       <workItem from="1682705955046" duration="178000" />
       <workItem from="1682706142194" duration="485000" />
-    </task>
-    <task id="LOCAL-00085" summary="动态规划解决字符串、数组的问题">
-      <created>1615562060245</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1615562060245</updated>
+      <workItem from="1682706641875" duration="973000" />
     </task>
     <task id="LOCAL-00086" summary="动态规划解决字符串、数组的问题">
       <created>1615769889158</created>
@@ -642,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620735733461</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="fix">
+      <created>1682706724253</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1682706724253</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,7 +691,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="滑动窗口法" />
     <MESSAGE value="双指针" />
     <MESSAGE value="动态规划解决字符串、数组的问题" />
     <MESSAGE value="回溯 + 剪枝" />
@@ -714,6 +715,7 @@
     <MESSAGE value="刷题" />
     <MESSAGE value="二叉搜索树" />
     <MESSAGE value="数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
