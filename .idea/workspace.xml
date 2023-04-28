@@ -1,91 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e900939-c51c-4679-872f-f120666a8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1372]二叉树中的最长交错路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[171]Excel表列序号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[172]阶乘后的零.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[23]合并K个升序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[328]奇偶链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[543]二叉树的直径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[617]合并二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[6]Z 字形变换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/en/[1]Two Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/x的平方根.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/两个数组的交集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/两个数组的交集II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/二分法模板.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/寻找两个正序数组的中位数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/寻找峰值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/寻找旋转排序数组中的最小值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/寻找比目标字母大的最小字母.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/寻找重复数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/找到k个最接近的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/按照频率将数组升序排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/搜索旋转排序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/有效的完全平方数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/猜数字大小.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二分法/第一个错误的版本号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/十大排序/冒泡排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/十大排序/插入排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/十大排序/选择排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/字符串问题/无重复字符的最长子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/数组/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/数组/丢失的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/数组/数组中出现次数超过一半的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/数组中第k个最大的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/栈/单调栈/字典序最小的k个数的子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/栈/单调栈/找出数组中右边比我小的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/栈/大鱼吃小鱼.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/栈/有效的括号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/t1树是否包含t2树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/不同的二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/不同的二叉搜索树II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/两颗二叉搜索树中的所有元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树中是否存在节点和为指定值的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树根节点到叶子节点和为指定值的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树根节点到叶子节点的所有路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树的完全性检验.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树的最大路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/删除二叉搜索树中的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/判断一棵二叉树是否为搜索二叉树和完全二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/前序遍历构造二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/完全二叉树的节点数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/找出搜索二叉树中两个错误的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/把二叉搜索树转换为累加树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/最小高度树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/翻转二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/递增顺序搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/验证二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/两两交换链表中的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/删除排序数组中的重复项II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/删除链表的倒数第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/反转链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/合并两个有序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/回文链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/奇偶链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/相交链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/移除链表元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表中的两数相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的归并排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的快速排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表的插入排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/队列/二叉树的层序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/复现代码/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[435]无重叠区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[435]无重叠区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/剑指offer/src/树/二叉树的深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树的深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/剑指offer/src/树/二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/树/二叉树的镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/最近公共祖先.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/最近公共祖先.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/翻转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/合并k个已排序的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/合并k个已排序的链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表是否有环.java" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/名企高频面试题143/src/链表题目/链表是否有环.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[111]二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[111]二叉树的最小深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[225]用队列实现栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[225]用队列实现栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[232]用栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[232]用栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[297]二叉树的序列化与反序列化.java" afterDir="false" />
     </list>
     <list id="a4cbcd94-f454-48e6-807b-858810fccbdd" name="数组" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,35 +52,31 @@
     <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ijS2r1PYTLCHJeLN7VF5uS8lzI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/牛客网/名企高频面试题143/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/project/aliSearch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
@@ -178,7 +99,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.两个数组的交集II">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="两个线程打印奇偶数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="两个线程打印奇偶数" />
       <module name="My_leetcode" />
@@ -195,6 +116,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="My_leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -257,6 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.两个数组的交集II" />
         <item itemvalue="Application.两个线程打印奇偶数" />
         <item itemvalue="JUnit.最长无重复字符子串.test" />
@@ -264,6 +193,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -363,6 +293,11 @@
       <workItem from="1631950085327" duration="96000" />
       <workItem from="1631950198979" duration="36000" />
       <workItem from="1631950254537" duration="65000" />
+      <workItem from="1678017591740" duration="1880000" />
+      <workItem from="1679825007320" duration="2443000" />
+      <workItem from="1680440439182" duration="157000" />
+      <workItem from="1682705955046" duration="178000" />
+      <workItem from="1682706142194" duration="485000" />
     </task>
     <task id="LOCAL-00085" summary="动态规划解决字符串、数组的问题">
       <created>1615562060245</created>
@@ -711,7 +646,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -728,9 +663,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -782,37 +715,5 @@
     <MESSAGE value="二叉搜索树" />
     <MESSAGE value="数组" />
     <option name="LAST_COMMIT_MESSAGE" value="数组" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="197" key="#Notifications" timestamp="1629714159961">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="197" key="#Notifications/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1629714159961" />
-    <state x="-1181" y="397" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624713191015">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1181" y="397" width="441" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1624713191015" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1631949474822">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1180" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1626858854351" />
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1631949474822" />
-    <state x="540" y="282" key="IDE.errors.dialog" timestamp="1629714236497">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="540" y="282" key="IDE.errors.dialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1629714236497" />
-    <state x="142" y="158" width="1373" height="738" key="SettingsEditor" timestamp="1631950319031">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="142" y="158" width="1373" height="738" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1631950319031" />
-    <state x="640" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1631950254448">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1280" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1627714977212" />
-    <state x="640" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1631950254448" />
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1627197397778">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1627197397778" />
   </component>
 </project>
